@@ -13,8 +13,8 @@ export const Home = () => {
           Brain Kom Simulation
         </h1>
         <Link
-          to="/game"
-          className="text-2xl sm:text-4xl sm:w-full w-3/4 bg-[#73B1D2] text-center font-silkscreen text-white hover:text-[#F26419] rounded-full"
+          to="/categories"
+          className="text-2xl sm:text-4xl sm:w-full w-3/4 bg-[#73B1D2] text-center text-white hover:text-[#F26419] rounded-full font-silkscreen"
         >
           Start
         </Link>
