@@ -1,0 +1,1814 @@
+{
+  "toksik": [
+    {
+      "question": "Seorang teknisi laboratorium medik sedang membantu pembuktian kasus keracunan karena diduga keracunan NAPZA lebih dari 2 jenis yang dikonsumsi oleh korban bersama sama dengan alkohol oplosan. Pasien mengeluhkan pandangan kabur sampai tidak bisa melihat sebelum akhirnya meninggal lebih kurang 4 jam setelah mengonsumsi. Berbagai jenis spesimen tersedia untuk diperiksa yaitu urin, darah, dan isi lambung serta berbagai organ. Dokter meminta tahap pertama dilakukan analisis kualitatif secara spot test dan kuantitatif menggunakan KCKT. Senyawa apa yang kemungkinan terdapat dalam minuman oplosan selain etanol?",
+      "answer": 4,
+      "choices": [
+        "Butanol",
+        "Dietileter",
+        "Heksan",
+        "Isopropil alkohol",
+        "Metanol"
+      ]
+    },
+    {
+      "question": "Sample darah untuk pemeriksaan hemostasis harus ditampung dalam wadah kaca berlapis silikon atau tabung plastik (polypropylene). Tabung yang digunakan harus diperhatikantanggal kadaluarsanya. CLSI merekomendasikan penampungan spesimen dilakukan padatabung yang berisi antikoagulan Na-sitrat. Konsentrasi berapa yang dipakai untukpemeriksaan tersebut ?",
+      "answer": 1,
+      "choices": ["3,1%", "3,2%", "3,4%", "3,6%", "3,8%"]
+    }
+  ],
+  "bakteri": [
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan pada sampel tinja yang encer ditemukan protozoa dengan ciri, bentuk ireguler, memiliki inti dengan kariosom yang terletak ditengah, serta adanya eritrosit dalam endoplasmanya. Apa nama spesies protozoa tersebut?",
+      "answer": 4,
+      "choices": [
+        "E. coli",
+        "B. coli",
+        "G. lamblia",
+        "I. butschlii",
+        "E. histolytica"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan sedimen urin seorang wanita berusia 36 tahun. Pada pengamatan secara mikroskopis ditemukan parasit yang bergerak aktif (berputar-putar). Untuk menyakinkan jenis parasit tersebut maka dibuat sediaan dan hasilnya terlihat parasit dengan bentuk oval, dilengkapi dengan flagel dan satu inti. Apakah nama spesies parasit pada kasus tersebut?",
+      "answer": 4,
+      "choices": [
+        "Giardia lamblia",
+        "Toxoplasma gondii",
+        "Trichomonas hominis",
+        "Trichomonas tenax",
+        "Trichomonas vaginalis"
+      ]
+    },
+    {
+      "question": "Seorang anak laki-laki berumur 5 tahun dengan riwayat tidak mendapatkan imunisasi lengkap mengalami demam dan radang tenggorokkan disertai pseudomembran. Dokter menyarankan untuk melakukan pemeriksaan apus tenggorok. Hasil pemeriksaan mikroskopis didapatkan bakteri dengan susunan huruf L, V dan karakter huruf China. Spesies apa yang ditemukan pada kasus tersebut?",
+      "answer": 3,
+      "choices": [
+        "Klebsiella pneumoniae",
+        "Diplococcus pneumoniae",
+        "Streptococcus pneumoniae",
+        "Corynebacterium diphteriae",
+        "Mycobacterium tuberculosis"
+      ]
+    },
+    {
+      "question": "Seorang pria homoseksual mendatangi seorang dokter dengan gejala klinis demam dan ruam-ruam pada alat kelaminnya. Diduga penyakit ini disebabkan oleh bakteri berbentuk spiral dan bersifat parasit obligat sehingga sulit untuk ditumbuhkan pada media pertumbuhan. Apa gen yang tepat untuk identifikasi bakteri tersebut?",
+      "answer": 2,
+      "choices": ["ITS 1", "ITS 2", "16S rRNA", "18S rRNA", "23S rRNA"]
+    },
+    {
+      "question": "Penyakit difteri merupakan penyakit yang cukup mematikan. Penyebabnya adalah Coryebacterium diphteriae. Gejala klinik yang nyata pada penyekit ini adalah membesarnya kelenjar limfonodi di bagian leher dan adanya psedomembran di bagian tonsil. Apakah yang menyebabkan terjadinya hat itu?",
+      "answer": 1,
+      "choices": [
+        "Toksin difteri masuk kedalam saluran pernafasan",
+        "Toksin menyebabkan kerusakan epitelium saluran nafas serta respon inflamasi superfisial",
+        "Enzim yang dihasilkan bakteri yang diserap oleh kelenjar limfa",
+        "Enzim yang dihasikan bakteri diserap oleh epitel",
+        "Toksin difetri yang mempengaruhi hormone tiroid"
+      ]
+    },
+    {
+      "question": "ATLM bagian sampling menerima permintaan kultur spesimen eksudat luka yang diambil oleh dokter bedah dari abses luka pasien anak dengan gejala klinik kejang otot dan saraf pada bagian tulang belakang. setelah ditanam pada medium agar darah dan diinkubasi tanpa oksigen, didapat bakteri dengan gambaran mikroskopik Gram seperti berikut:",
+      "answer": 2,
+      "choices": [
+        "Corynebacterium diphteriae",
+        "Clostridium botulinum",
+        "Clostridium tetani",
+        "Bacillus antraxis",
+        "Bacillus subtilis"
+      ],
+      "image": "Picture4.png"
+    },
+    {
+      "question": "Seorang ATLM sedang melakukan pengamatan dan perhitungan terhadap koloni yang tumbuh pada medium Lowenstein Jensen. Hasil perhitungan didapatkan jumlah koloni sebanyak 167 koloni. Berapa nilai positif yang harus ATLM tersebut laporkan di form hasil pemeriksaan ?",
+      "answer": 1,
+      "choices": ["1+", "2+", "3+", "4+", "5+"]
+    },
+    {
+      "question": "Tuberkulosis adalah penyakit yang dapat menyerang berbagai organ. Terdapat beragam cara untuk menentukan diagnosis penyakit tuberkulosis yaitu secara baktreiologis, imunologis maupun molekuler. Diantara pemeriksaan tersebut manakah yang menjadi baku emasnya (gold standard)",
+      "answer": 3,
+      "choices": [
+        "Tes Mantoux",
+        "IGRA",
+        "Tes cepat molekuler (TCM)",
+        "Kultur",
+        "Pewarnaan BTA"
+      ]
+    },
+    {
+      "question": "Mahasiswa TLM sedang melakukan penelitian mengenai keanekaragaman bakteri yang ada pada anak stunting di Cimahi. Berdasarkan literatur yang ada, setiap spesies memiliki jumlah gen rRNA yang berbeda, bermacam-macam jumlahnya dari 1-15 gen. Strain yang sama akan memiliki jumlah gen rRNA yang sama. Agar dapat menentukan spesies bakteri maka mahasiswa harus mengetahui sekuens DNA nya. Apa metode yang tepat untuk hal tersebut?",
+      "answer": 4,
+      "choices": [
+        "Ribotyping",
+        "Hibridisasi",
+        "Analisis PCR",
+        "Southern blot",
+        "DNA Sequencing"
+      ]
+    },
+    {
+      "question": "Seorang pria berumur 50 tahun dengan gejala kesulitan bernapas dan batuk berdarah dirujuk oleh dokter untuk pemeriksaaan sampel sputum. Hasil pewarnaan khusus ditemukan bakteri seperti pada gambar. Hasil perhitungan menunjukkan terdapat 83 sel dalam 100 lapang pandang. Apa kesimpulan yang harus dituliskan dalam laporan hasil pemeriksaan?",
+      "answer": 1,
+      "choices": ["+1", "1+", "2+", "+2", "3"],
+      "image": "Unknown4.png"
+    },
+    {
+      "question": "Seorang ATLM diminta untuk melakukan identifikasi bakteri pada spesimen apus luka. Setelah di dapatkan bakteri terduga, pemeriksaan dilanjutkan dengan uji sensitivitas antibiotik. Uji dilakukan secara kualitatif dan didapatkan hasil bahwa bakteri tersebut resisten terhadap antibiotik eritromisin. Metode apa yang dilakukan oleh ATLM tersebut?",
+      "answer": 0,
+      "choices": [
+        "metode Kirby-Bauer",
+        "metode dilusi agar",
+        "metode time-kill test",
+        "metode makrodilusi",
+        "metode E-test"
+      ]
+    },
+    {
+      "question": "Seorang ATLM memeriksa kualitas mikrobiologis air dari Depot Air Minum Isi Ulang menggunakan metode MPN Coliform. Terdapat hasil positif pada uji dugaan dan uji penegasan, sehingga uji diteruskan hingga uji pelengkap. Hasil menunjukkan terdapat koloni berwarna ungu dengan kilat hijau metalik pada media uji selektif setelah diinkubasi pada suhu 44℃. Apa nama spesies yang tumbuh pada media tersebut?",
+      "answer": 1,
+      "choices": [
+        "Klebsiella pneumoniae",
+        "Escherichia coli",
+        "Streptococcus sp.",
+        "Enterobacter aerogenes",
+        "Salmonella typhi"
+      ]
+    },
+    {
+      "question": "Seorang wanita dengan gejala nyeri pada panggul dan sakit pada saat buang air kecil disertai dengan demam dan mual memeriksakan dirinya ke dokter. ATLM diminta untuk menghitung jumlah bakteri pada sampel urin wanita tersebut. Hasil dinyatakan bahwa wanita tersebut terkena Infeksi Saluran Kemih (ISK). Berapa perkiraan jumlah bakteri pada sampel urin tersebut?",
+      "answer": 4,
+      "choices": [
+        "50 cfu/mL",
+        "2 x 102 cfu/mL",
+        "1 x 103 cfu/mL",
+        "3,5x 104 cfu/ml",
+        "2,5 x 105 cfu/ml"
+      ]
+    },
+    {
+      "question": "Neisseria gonorrhoeae mempunyai kemampuan melekat pada sel epitel vagian karena telah dilengkapi dengan organel sel tertentu. Organel tersebut berupa protein yang menjulur dari permukaan dinding sel. Apa organel yang dimaksud pada pernyataan diatas?",
+      "answer": 2,
+      "choices": ["Kapsul", "Por", "Opa", "RmP", "Lipopolisakarida"]
+    },
+    {
+      "question": "Seorang ATLM telah melakukan pemeriksaan kultur bakteri dari cairan otak pasien dengan diagnosis dokter mengalami radang selaput otak. Hasil pemeriksaan pada agar coklat didapatkan koloni berwarna abu-abu, yang setelah diwarnai dengan pewarnaan Gram didapatkan kokus dua-dua Gram negatif. Dari hasil pewarnaan didapat kesimpulan sementara yaitu Neisseria meningitidis. Selanjutnya ATLM melakukan pemeriksaan oksidase, gula-gula glukosa, maltose, sukrosa dan mannitol. Bagaimana hasil uji tersebut?",
+      "answer": 1,
+      "choices": [
+        "+, +, -, +, -",
+        "+, +, +, -, -",
+        "+, +, -, -, -",
+        "-, +, +, -, -",
+        "+, +, +, +, +"
+      ]
+    },
+    {
+      "question": "Seorang ATLM mendapatkan sampel berupa feses berlendir didalam medium pertumbuhan cair alkaline peptone water (APW) yang telah diinkubasi pada suhu 37ºC selama 18-24 jam. Hasil dari media perbenihan APW kemudian dilakukan subkultur ke medium Thiosulfate Citrate Bile Sucrose (TCBS) dan diinkubasi pada suhu 37ºC selama 18-24 jam. Koloni berwarna kuning. Berbentuk koma kadang melengkung, Gram negatifSpesies apakah bakteri yang dimaksud?",
+      "answer": 1,
+      "choices": [
+        "Vibrio parahaemolyticus",
+        "Vibrio cholera",
+        "Vibrio vulnificus",
+        "Vibrio mimicus",
+        "Vibrio fluvialis"
+      ]
+    },
+    {
+      "question": "Seorang ATLM sedang melakukan peneltian dari sampel swab luka pasien DM. dari hasil pemeriksaan kultur mikroorganisme secara mikroskopis terlihat bakteri bentuk basil, bewarna merah. Penanaman specimen pada media agar menunjukkan pertumbuhan bakteri pada media Mac Conkey Agar berbentuk bulat, berwarna merah, tepi rata, smooth, opaque. Uji biokimia yang dilakukan menunjukkan karakteristik, seperti motilitas (+), lactose (+), indol (+), methyl red (+) TSIA (A/A) gas (+).Sebutkan jenis spesies bakteri yang paling tepat untuk menggambarkan hasil pemeriksaan tersebut?",
+      "answer": 0,
+      "choices": [
+        "Eschericia coli",
+        "Enterobacter aerogenes",
+        "Klebseilla pneumoniae",
+        "Salmonella parathypi A",
+        "Pseudomonas aurogenosa"
+      ]
+    },
+    {
+      "question": "Identifikasi bakteri penyebab infeksi telah dilakukan ATLM pada specimen swab tenggorokan pasien anak laki-laki umur 9 tahun. Hasil uji katalase pada koloni tersangka negatif. Ciri-ciri koloni pada agar darah: bentuk bulat, smooth, diameter 1-2 mm, disekeliling zone bening. Hasil pewarnaan Gram didapat bakteri Gram postif kokus berantai. Langkah apa yang dilakukan untuk mengetahui species isolat tersebut?",
+      "answer": 3,
+      "choices": [
+        "Uji Sensitifitas optochin",
+        "Fermentasi inulin",
+        "Uji kelarutan empedu",
+        "Uji Sensitifitas basitrasin",
+        "Uji Sensitifitas novobiocin"
+      ]
+    },
+    {
+      "question": "Telah diambil apus kulit dari pasien impetigo. Hasil pemeriksaan mikroskopis Gram menunjukkan hasil Gram (+), bentuk kokus, susunan dua-dua, kultur pada agar darah didapat koloni kecil-kecil, transparan, dengan zona bening di sekeliling koloni. Uji Camp test menunjukkan hasil negatif, tes terhadap antibiotif basitrasin hasilnya sensitif.Apa kemungkinan jenis bakteri yang menginfeksi?",
+      "answer": 3,
+      "choices": [
+        "Streptococcus mutans",
+        "Streptococcus viridans",
+        "Streptococcus agalactie",
+        "Streptococcus pyogenes",
+        "Streptococcus pneumonia."
+      ]
+    },
+    {
+      "question": "Dokter meminta pemeriksaan mikrobiologis terhadap sampel apus telinga penderita otitis media. Hasil pewarnaan Gram didapatkan bakteri berbentuk bulat, bergerombol menyerupai anggur dan berwarna ungu. Analis menduga bakteri tersebut adalah Staphylocccus sp. Medium apakah yang paling tepat diambil oleh analis untuk melakukan isolasi terhadap bakteri tersebut?",
+      "answer": 1,
+      "choices": [
+        "Mac Conkey agar",
+        "Manitol Salt agar",
+        "Nutrrien agar",
+        "Muller Hinton agar",
+        "Agar darah"
+      ]
+    },
+    {
+      "question": "Dari urine seorang pasien dengan gejala sakit pada waktu kencing, setelah dilakukan pewarnaan Gram didapat bakteri bentuk bulat, bergerombol, Gram positif. Dari uji reisistensi menggunakan novobiosin ditemukan gelanggang di sekitar koloni. Tes fermentasi manitol menunjukkan hasil negatif. Apa sepesies bakteri yang ditemukan dalam sampel tersebut?",
+      "answer": 3,
+      "choices": [
+        "S. saprofiticus",
+        "S. pyogenes",
+        "S. aureus",
+        "S. epidermidis",
+        "S. viridans"
+      ]
+    },
+    {
+      "question": "Untuk uji lanjutan dari hasil isolasi bakteri pada medium Mac Conkey, seorang teknisi mengambil beberapa medium untuk uji biokimia, diantaranya adalam medium indol. Setelah ditanam dan dinkubasi 24 jam teknisi tersebut menambahkan reagen kovacs ke dalam medium sehingga tampak adanya cincin warna merah di permukaan medium. Apa jenis enzim yang dimiliki oleh bakteri yang ditanam pada medium uji biokimia tersebut?",
+      "answer": 0,
+      "choices": [
+        "Triphtopanase",
+        "Tiosulfat reductase",
+        "Cistin desulfurase",
+        "Transaminase",
+        "Laktase"
+      ]
+    },
+    {
+      "question": "Spesimen tinja dikultur pada suatu media agar plat untuk mengetahui bakteri patogen pada pasien dengan keluhan diare dengan karakteristik tinja cair. Dipilih media agar Mac Conkey untuk isolasi, ditemukan koloni diduga Escherichia coli. Selanjutnya dilakukan uji biokimia dengan medium Indol hasilnya positif. Bagaimana hasil reaksi pada uji biokimia tersebut ?",
+      "answer": 0,
+      "choices": [
+        "Indol berikatan dengan kovacks menjadi berwarna merah",
+        "Indol berikatan dengan kovacks menjadi berwarna kuning",
+        "Amoniak berikatan dengan kovaks menjadi berwarna merah",
+        "Asam pirivat berikatan dengan kovaks menjadi berwarna kuning",
+        "Asam piruvat berikatan dengan kovacks menjadi berwarna kuning"
+      ]
+    },
+    {
+      "question": "Seorang pasien diminta dokter untuk memeriksakan darahnya ke laboratorium. Hasil pemeriksaan pada agar darah didapat koloni dengan zone hemolisis. Dari koloni yang tumbuh setelah diwarnai dengan Gram didapat bakteri bentuk basil Gram positif (+) yang memanjang, dengan bagian di tengah sel yang tidak terwarnai oleh zat warna Gram, seperti terlihat pada gambar berikut: Struktur apa yang jernih (tidak bisa terwarnai) yang terdapat di bagian tengah bakteri tersebut?",
+      "answer": 0,
+      "choices": ["Spora", "Kapsul", "Ribosom", "Nukleolid", "Sitoplasma"],
+      "image": "Picture3.png"
+    },
+    {
+      "question": "Seorang ATLM di lab mikrobiologi diminta untuk memeriksa sputum dari pasien berusia 10 tahun dengan gejala batuk dan sesak nafas yang cukup berat. Dari koloni yang tumbuh setelah diwarnai pewarnaan negative dengan tinta cina didapat gambaran sebagai berikut: Apa metode pewarnaan yang dapat digunakan untuk melihat bagian tersebut?",
+      "answer": 1,
+      "choices": [
+        "Gram",
+        "Burry Gins",
+        "Ziehl Nelsen",
+        "Kinyoun Gabbet",
+        "Klein dan Shcaeffer Fulton"
+      ],
+      "image": "Picture2.png"
+    },
+    {
+      "question": "Seorang pria berusia 50 tahun dengan keluhan batuk berdahak kronis dirujuk oleh dokter untuk diperiksa dahak/sputumnya. Untuk pemeriksaan, petugas ATLM di laboratorium melakukan pewarnaan Basil Tahan Asam. Zat warna apakah yang digunakan sebagai primerstain?",
+      "answer": 1,
+      "choices": [
+        "Safranin",
+        "Carbol Fukhsin",
+        "Kristal violet",
+        "Malacit green",
+        "Methylen blue"
+      ]
+    },
+    {
+      "question": "Seorang pria berusia 50 tahun dengan keluhan batuk berdahak kronis dirujuk oleh dokter untuk diperiksa dahak/sputumnya. Untuk pemeriksaan, petugas ATLM di laboratorium melakukan pewarnaan Basil Tahan Asam. Apa metode standar WHO yang dapat digunakan untuk mewarnai bakteri tersebut?",
+      "answer": 4,
+      "choices": [
+        "Kinyoun Gabet",
+        "Gram",
+        "Klein",
+        "Schaeffer Fulton",
+        "Ziehl Neelsen"
+      ]
+    },
+    {
+      "question": "Seorang ATLM menyiapkan bahan-bahan yang akan digunakan pada pewarnaan Gram dari sampel apus vagina. Salah satunya bahan tersebut adalah alcohol 96%.Apa fungsi dari bahan tersebut?",
+      "answer": 3,
+      "choices": [
+        "Mordan",
+        "Primer stain",
+        "Counter stain",
+        "Dekolorisator",
+        "Sekunder stain"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta dokter melakukan pewarnaan Gram terhadap apus luka dari kulit pasien penderita ulkus diabetes. Didapatkan hasilnya kokus bergerombol Gram positif. Zat warna apakah yang diserap oleh dinding sel bakteri tersebut?",
+      "answer": 1,
+      "choices": [
+        "Safranin",
+        "Kristal violet",
+        "Methilen blue",
+        "Carbol fuchsin",
+        "Malachiet green"
+      ]
+    },
+    {
+      "question": "Dari pasien yang diduga menderita penyakit kolera, didapat sampel feses dengan karakteristik feses yang sangat encer seperti air cucian beras. Selanjutnya untuk mengetahui bakteri penyebabnya, feses tersebut akan dikultur pada suatu medium selektif. Medium selektif apakah yang sebaiknya digunakan oleh ATLM?",
+      "answer": 3,
+      "choices": [
+        "Mac Conkey agar",
+        "Eosin Methylen Blue agar",
+        "Salmonella Shigella agar",
+        "Thiosulfat Citrat Bile Sukrosa agar",
+        "Endo agar"
+      ]
+    },
+    {
+      "question": "Seorang ATLM sedang mempersiapkan suatu medium yang didalamnya mengandung komposisi berupa kristal violet dan garam empedu (bile salt). Diketahui bahwa kedua senyawa tadi dapat menjadi racun bagi kelompok bakteri tertentu, tetapi dapat juga menyuburkan bakteri jenis lainnya. Berdasarkan komposisinya, termasuk jenis apakah medium tersebut?",
+      "answer": 4,
+      "choices": [
+        "Differensial",
+        "Selektif",
+        "Enrichment/penyubur",
+        "Universal",
+        "Penguji"
+      ]
+    }
+  ],
+  "hema": [
+    {
+      "question": "Eritropoiesis adalah pembentukan sel-sel darah dari eritrosit. Prekursor eritrosit yang dapat dikenali pertama kali di sumsum tulang, yaitu pronomorblas. Diantara perkembangan sel eritrosit terdapat sel yang dengan pewarnaan khusus memiliki karakteristik yang khas yaitu terdapat substansia granula filamentosa (SGF) di dalam sitoplasma. Apa nama sel yang dimaksud tersebut?",
+      "answer": 0,
+      "choices": [
+        "nomobas asidofil",
+        "nomoblas polkromatofil",
+        "nombolas basofil",
+        "retikulosit",
+        "eritrosit"
+      ]
+    },
+    {
+      "question": "Eritropoietin adalah hormon yang berperan dalam eritropoiesis yang diproduksi olehginjal. Hormon ini berperan semua tahap pembentukan sel darah merah (SDM).Apa peranan khusus dari hormon ini ?",
+      "answer": 3,
+      "choices": [
+        "Kecepatan sel bakal yang sudah committed (BFU-E dan CFU-E) untuk membelah diri dan berdiferensiasi dihambat.",
+        "Eritropoiesis dapat meningkat sampai 5-10 kali lipat (normal)",
+        "Menunda penggabungan Fe ke dalam SDM",
+        "Mempersingkat waktu pematangan sel",
+        "Menurunnya masuknya SDM imatur (retikulosit) ke dalam sirkulasi"
+      ]
+    },
+    {
+      "question": "Masing-masing jenis lekosit mempunyai karakteristik yang berbeda. Perbedaantersebut dapat diamati di bawah mikroskop pada pemeriksaan hitung jenis lekosit. Diantara jenis sel tersebut ada yang memiliki karakteristik sebagai berikut: ukuran antara12-20 µm, bentuk inti Berlekuk atau terlipat atau bentuk ginjal atau huruf E,sitoplasma biru keabuan, ada vakuola, rasio inti dan sitoplasma 5: 1.Apa nama Sel dengan karakterisasi tersebut ?",
+      "answer": 2,
+      "choices": [
+        "basofil",
+        "limfosit",
+        "monosit",
+        "eosinofil",
+        "netrofil segmen"
+      ]
+    },
+    {
+      "question": "Limfosit merupakan sel darah putih terbanyak kedua yang beredar di darah periferyang berperan dalam sistem pertahanan tubuh. Nilai normal sel limfosit dalam sediaanhapus darah tepi pada pemeriksaan hitung jenis lekosit antara 20-45%. Limfosit dapatmeningkat pada beberapa keadaan tertentu di antaranya pada bayi dan anak kecilyang mengalami infeksi akut.Apa nama penyakit pada keadaan infeksi tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Sifilis",
+        "Brucellosis",
+        "Tuberkulosis",
+        "Toksoplasmosis",
+        "Trichomoniasis"
+      ]
+    },
+    {
+      "question": "Hitung jumlah trombosit cara tidak langsung dilakukan dengan membandingkan jumlahtrombosit per eritrosit pada hapusan darah dengan jumlah eritrosit dalam 1mm3 darah.Berapa jumlah eritrosit yang harus dihitung ?",
+      "answer": 2,
+      "choices": ["10", "100", "1.000", "10.000", "100.000"]
+    },
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan hitung trombosit secara manual, dipipet darahmemakai pipet thoma sampai angka 1 kemudian larutan pengencer sampai angka 101.Kemudian dihomogenkan dan diteteskan campuran tadi dalam bilik hitung untuk dilakukanperhitungan. Reagen apa yang dipakai dalam pemeriksaan tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Turk",
+        "Ammonium oksalat",
+        "Safranin",
+        "Von Dungern",
+        "Natrium sitrat"
+      ]
+    },
+    {
+      "question": "Metode Ivy dilakukan dengan membuat perlukaan pada bagian voler lengan sedangkanmetode Duke dilakukan membuat perlukaan pada bagian bawah cuping telinga. Metodeyang disarankan adalah metode Ivy, karena pada metode tersebut dilakukan pembendunganlengan sehingga terdapat perlakuan yang standar pada pembuluh darah kapiler yangdilukai. Berapa tekanan spigmomanometer yang dipakai ?",
+      "answer": 0,
+      "choices": ["40 mmHg", "80 mmHg", "100 mmHg", "120 mmHg", "200 mmHg"]
+    },
+    {
+      "question": "Kelainan bentuk eritrosit seperti yang ditunjuk anak panah berikut disebut?",
+      "answer": 2,
+      "choices": [
+        "Ovalosit",
+        "Sel target",
+        "Sel spherosit",
+        "Sel tear drop",
+        "Sel bite"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan morfologi darah tepi, waktu maksimal penyimpanan sampel agar hasilpemeriksaan sel masih baik adalah?",
+      "answer": 1,
+      "choices": [
+        "4 jam pada suhu kamar",
+        "4 jam pada suhu 4oC",
+        "2 jam pada suhu 4oC",
+        "12 jam pada suhu 4oC",
+        "24 jam pada suhu 4oC"
+      ]
+    },
+    {
+      "question": "Hasil pemeriksaan darah rutin An. D usia 2 tahun adalah sebagai berikut : Hb: 4,5 gr/dL(nilai rujukan 9,6-15,6 gr/dL), leukosit: 12.000 sel/mm3 (nilai rujukan: 5.500-17.500sel/mm3), trombosit= 76.000/mm3 (nilai rujukan; 150.000-450.000 sel/mm3). Hasilhitung jenis leukosit: -/1/2/4/66/2, tersangka limfoblast= 25%. Morfologi darah tepi An.D adalah seperti pada gambar. Kemungkinan An D menderita?",
+      "answer": 0,
+      "choices": ["ALL", "AML", "CML", "CLL", "Burkitt Cell Lymphoma."],
+      "image": "Screen%20Shot%202022-04-08%20at%2020.36.05.png"
+    },
+    {
+      "question": "Hasil pemeriksaan darah rutin pasien An. S, laki-laki usia 14 tahun adalah sebagai berikut: Hb= 8 gr/dL (nilai rujukan: 14-16 gr/dL), Eritrosit=4,8 juta sel/mm3 (nilai rujukan: 4,5-5,5 juta sel/mm3), hematokrit=26% (nilai rujukan: 45-55%), MCV= 68 fL (nilairujukan:80-100 fL), MCH=27 pg (nilai rujukan:28-32 pg), MCHC=30 gr/dL (nilairujukan: 33-36 gr/dL). Pemeriksaan besi serum =120 μg/dL (nilai rujukan: 80-180μg/dL). Pemeriksaan elektroforesis Hb sebagai berikut : Hb A2= 4% (nilai rujukan:1,5-3,5%) dan Hb F = 10% (nilai rujukan: 0,5-0,8%). Kemungkinan An, S menderita?",
+      "answer": 3,
+      "choices": [
+        "Anemia defisiensi besi",
+        "Anemia akibat penyakit kronik",
+        "Anemia sideroblastik",
+        "Talasemia",
+        "Anemia pada sindrom mielodisplastik."
+      ]
+    },
+    {
+      "question": "Hasil pemeriksaan darah rutin pasien Ny. T, usia 35 tahun adalah sebagai berikut : Hb= 9gr/dL (nilai rujukan: 12-14 gr/dL), Eritrosit=2,8 juta sel/mm3 (nilai rujukan: 4-5 jutasel/mm3), hematokrit=26% (nilai rujukan: 36-48%), MCV =70 fL (nilai rujukan:80-100fL), MCH=26 pg (nilai rujukan:28-32 pg), MCHC=30 gr/dL (nilai rujukan: 33-36 gr/dL),leukosit = 5600 sel/mm3 (nilai rujukan: 4000-10.000 sel/mm3) dan trombosit= 300.000sel/mm3 (nilai rujukan: 150.000-450.000 sel/mm3).Gambaran apus darah tepi pasien Ny. T adalah sebagai berikut :",
+      "answer": 4,
+      "choices": [
+        "Anemia defisiensi asam folat/vitamin B-12",
+        "Anemia aplastik",
+        "Anemia pasca perdarahan akut",
+        "Anemia pada sindroma mielodisplastik",
+        "Anemia defisiensi besi"
+      ],
+      "image": "Screen%20Shot%202022-04-08%20at%2020.33.46.png"
+    },
+    {
+      "question": "Hasil pemeriksaan darah rutin pasien Tn. P, usia 45 tahun adalah sebagai berikut : Hb=13 gr/dL (nilai rujukan: 14-16 gr/dL), Eritrosit=4,5 juta sel/mm3 (nilai rujukan: 4,5-5,5juta sel/mm3), hematokrit=45% (nilai rujukan: 45-55%), MCV =115 fL (nilai4rujukan:80-100 fL), MCH=30 pg (nilai rujukan:28-32 pg), MCHC=35 gr/dL (nilairujukan: 33-36 gr/dL).Kemungkinan Tn P mengalami?",
+      "answer": 1,
+      "choices": [
+        "Defisiensi zat besi",
+        "Defisiensi asam folat/vitamin B-12",
+        "Perdarahan akut",
+        "Penyakit kronik",
+        "Sindroma mielodisplastik (preleukemia)"
+      ]
+    },
+    {
+      "question": "Hasil pemeriksaan darah rutin pasien Ny. W, usia 25 tahun adalah sebagai berikut : Hb=13 gr/dL (nilai rujukan: 12-14 gr/dL), Eritrosit=4,2 juta sel/mm3 (nilai rujukan: 4-5 jutasel/mm3), hematokrit=39% (nilai rujukan: 36-48%), MCV =88 fL (nilai rujukan:80-100fL), MCH=30 pg (nilai rujukan:28-32 pg), MCHC=35 gr/dL (nilai rujukan: 33-36 gr/dL).Perkiraan penilaian eritrosit pada pemeriksaan apus darah tepi Ny. W adalah?",
+      "answer": 0,
+      "choices": [
+        "Normokromasi normositer",
+        "Hipokromasi mikrositer",
+        "Normokromasi makrositer",
+        "Normokromasi mikrositer",
+        "Hipokromasi makrositer."
+      ]
+    },
+    {
+      "question": "Hasil pemeriksaan trombosit pasen A =850.000 sel/mm3 (nilai rujukan: 150.000-450.000sel/mm3), sedangkan MCV (volume rata-rata eritrosit) = 55 fL (nilai rujukan MCV=80-100 fL), sehingga dimungkinkan ukuran eritrosit yang kecil ini terhitung sebagaitrombosit karena sama-sama menggunakan metode impedansi pada alat hematologiotomatis. Dilakukan konfirmasi jumlah trombosit dengan sediaan apus darah tepi. Padapengamatan trombosit dari 10 lapang pandang, menggunakan mikroskop pembesaran3100x didapatkan jumlah trombosit = 175 sel, sehingga perkiraan jumlah trombositsebenarnya adalah?",
+      "answer": 2,
+      "choices": [
+        "330.000 sel/mm3",
+        "340.000 sel/mm3",
+        "350.000 sel/mm3",
+        "360.000 sel/mm3",
+        "35.000 sel/mm3"
+      ]
+    },
+    {
+      "question": "Anak B, usia 8 tahun, dirawat di RS karena keluhan demam sejak 3 hari yang lalu. Hasilpemeriksaan laboratorium adalah sebagai berikut: Hb= 13 gr/dL, leukosit=3500 sel/mm3,hematokrit= 41%, trombosit=100.000 sel/mm, IgM dengue=reaktif, IgG dengue = nonreaktif. Pasien terpasang infus.Hasil pemeriksaan laboratorium pada hari kedua perawatan: Hb=11 gr/dL, leukosit=3000sel/mm3, trombosit=105.000 sel/mm3. Penurunan hemoglobin pada hari keduaperawatan kemungkinan disebabkan karena?",
+      "answer": 1,
+      "choices": [
+        "Perdarahan hebat",
+        "Hemodilusi akibat infus",
+        "Defisiensi besi",
+        "Hemokonsentrasi akibat infus",
+        "Perdarahan kronis"
+      ]
+    },
+    {
+      "question": "Anak N, usia 9 tahun, dirawat di RS karena keluhan demam sejak 3 hari yang lalu. Hasilpemeriksaan laboratorium adalah sebagai berikut: Hb= 13 gr/dL, leukosit=3500 sel/mm3,hematokrit= 41%, trombosit=30.000 sel/mm3, NS1 : positif, IgM dengue=reaktif, IgGdengue = non reaktif. Pasien terpasang infus (terapi cairan).Hasil pemeriksaan laboratorium pada hari kedua perawatan: Hb=11 gr/dL, leukosit=3000sel/mm3, trombosit=40.000 sel/mm3. Hasil trombosit pada hari ketiga perawatan=45.000sel/mm3.Pemeriksaan laboratorium diulang setelah 2 minggu pulang dari RS, didapatkan hasiltrombosit=55.000/mm3. Pemeriksaan trombosit setelah 1 bulan kemudian :56.000/mm3.Jika diamati dari hasil pemeriksaan trombosit, kemungkinan yang terjadi pada pasien N?",
+      "answer": 2,
+      "choices": [
+        "Perdarahan terus menerus",
+        "Kesalahan hasil pemeriksaan laboratorium",
+        "Immune/Idiopatic Thrombocytopenia Purpura (ITP) pasca infeksi",
+        "Thrombasthenia Glanzmann",
+        "Hereditary Hemorrhagic Teleangiectasis"
+      ]
+    },
+    {
+      "question": "Seorang anak kecil dibawa oleh ibunya ke laboratorium dengan membawa pengantar pemeriksaandari dokter. Pengantar tersebut berisi permintaan pemeriksaan hematologi rutin, Fe serum, danfeses rutin. Dokter telah memperkirakan pasien menderita anemia defisiensi besi. Pada hasil pemeriksaan hematologi pasien tersebut, dapat ditemukan hasl?",
+      "answer": 2,
+      "choices": [
+        "Hb normal, MCV normal, MCH normal",
+        "Hb normal, MCV meningkat, MCH meningkat",
+        "Hb turun, MCV turun, MCH turun",
+        "Hb turun, MCV meningkat, MCH meningkat",
+        "Hb meningkat, MCV meningkat, MCH meningkat"
+      ]
+    },
+    {
+      "question": "Ketika anda bekerja, anda melakukan sampling darah vena, tidak lama kemudian sampel darahpasien terlihat beraglutinasi didalam tabung yang diberi antikoagulan EDTA. Pada saat anda cobalihat apusan dimikroskop, terlihat gambaran seperti pada gambar. Dugaan kelainan yang paling mungkin untuk sampel darah tersebut adalah?",
+      "answer": 3,
+      "choices": [
+        "Talasemia",
+        "Anemia intravascular",
+        "Sickle cell disease",
+        "Cold antibody hemolytic autoimmune",
+        "Anemia defisiensi besi"
+      ],
+      "image": "Screen%20Shot%202022-04-08%20at%2020.26.25.png"
+    },
+    {
+      "question": "Sel apakah yang digunakan sebagai patokan dalam menentukan normal tidaknya ukuraneritrosit pada sediaan apus darah tepi tersebut?",
+      "answer": 1,
+      "choices": [
+        "Sel Monosit",
+        "Sel Limfosit kecil",
+        "Sel Leukosit",
+        "Sel Trombosit",
+        "Sel Giant Trombosit"
+      ]
+    },
+    {
+      "question": "Seorang pasien Laki-laki usia 35 thn diminta untuk melakukan pemeriksaan hematologi sediaan apusdarah tepi (SADT) dan sumsum tulang (SAST/Bone Marrow) atas permintaan dokter karena didugamengalami Anemia. Sel dari sistem eritropoiesis manakah berikut ini yang normal ada dalam jumlah banyak didarah tepi pada orang dewasa sehat?",
+      "answer": 3,
+      "choices": [
+        "Normoblast basophil",
+        "Normoblast polikromatofil",
+        "Pronormoblast",
+        "Eritrosit",
+        "Retikulosit"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pembacaan preparate darah tepi dan mendapatkan berbagai macam jenis sel seperti pada gambar. Jenis sel yang ditemukan ATLM tersebut, yaitu?",
+      "answer": 3,
+      "choices": [
+        "Sel no. 1 adalah sel Monosit",
+        "Sel no. 2 adalah sel netrofil",
+        "Sel no. 3 adalah sel batang netrofil",
+        "Sel no.4 adalah sel limfosit",
+        "Sel no. 5 adalah sel segmen netrofil"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pembacaan preparate darah tepi dan mendapatkan berbagai macam jenis sel seperti pada gambar. Dan didapat sel no 6, yaitu?",
+      "answer": 3,
+      "choices": [
+        "Sel tersebut berperan dalam respon inflamasi kronis",
+        "Granula pada sel tersebut mengandung zat pencetus inflamasi yang disebut sebagai histamin",
+        "Granula pada sel tersebut terwarnai hanya oleh tetrabromfluoresein",
+        "Granula pada sel tersebut terwarnai oleh tetrabromfluoresein dan trimetiltionin",
+        "Granula pada sel tersebut terwarnai hanya oleh trimetiltionin"
+      ],
+      "image": "Screen%20Shot%202022-04-08%20at%2020.20.23.png"
+    },
+    {
+      "question": "Seorang ATLM di laboratorium RS A, menerima 2 formulir permintaanpemeriksaan laboratorium untuk pasien Tn. Budi (20 tahun) dan By. Wati (5 bulan). Pernyataan yang benar mengenai tabung berlabel D dalam kotak peralatan ATLM tersebut adalah?",
+      "answer": 1,
+      "choices": [
+        "Tabung tersebut berisi antikoagulan heparin",
+        "Tabung tersebut dipergunakan untuk pemeriksaan hemostasis",
+        "Tabung terebut berisi antikoagulan EDTA",
+        "Tabung tersebut dipergunakan untuk pemeriksaan LED metode Westergreen",
+        "Tabung tersebut diperlukan untuk pembuatan serum"
+      ],
+      "image": "Screen%20Shot%202022-04-08%20at%2020.19.15.png"
+    },
+    {
+      "question": "Seorang analis Kesehatan di laboratorium RS A, menerima 2 formulir permintaanpemeriksaan laboratorium untuk pasien Tn. Budi (20 tahun) dan By. Wati (5 bulan). Permintaan pemeriksaan untuk By. Wati adalah pemeriksaan morfologi darah tepi. Peralatan yang dapat Miley gunakan untuk mengambil darah kapiler By. Wati adalah?",
+      "answer": 3,
+      "choices": ["1 dan 2", "1 dan 3", "2 dan 3", "2 dan 4", "3 dan 5"],
+      "image": "Screen%20Shot%202022-02-19%20at%2011.08.06.png"
+    },
+    {
+      "question": "Seorang ATLM di laboratorium RS A, menerima 2 formulir permintaanpemeriksaan laboratorium untuk pasien Tn. Budi (20 tahun) dan By. Wati (5 bulan). Permintaanpemeriksaan untuk Tn. Budi adalah pemeriksaan darah rutin dan morfologi darah tepi.Permintaan pemeriksaan untuk By. Wati adalah pemeriksaan morfologi darah tepi. Mileymemutuskan untuk melakukan pengambilan darah vena untuk Tn. Budi dan pengambilan darahkapiler untuk By. Wati, lalu melakukan pemeriksaan sesuai permintaan. Pewarnaan yang Mileygunakan untuk mewarnai preparat morfologi darah tepi menggunakan prinsip Romanowsky.6. Pewarnaan yang ATLM tersebut gunakan memerlukan penggunaan dua pewarna yang berbeda .Pewarna yang bersifat asam adalah?",
+      "answer": 3,
+      "choices": [
+        "May Grunwald",
+        "Azur B",
+        "Giemsa",
+        "Eosin Y",
+        "Methanol Absolut"
+      ]
+    },
+    {
+      "question": "Seorang pasien datang ke laboratorium tempat anda bekerja, membawa pengantar laboratoriumdari dokter. Dokter menduga pasien menderita anemia megaloblastik.Pemeriksaan hematologi rutin yang paling sering akan menunjukkan kelainan pada anemiamegaloblastik adalah?",
+      "answer": 0,
+      "choices": [
+        "Hb, Ht, MCV",
+        "Hb, Leukosit, Trombosit",
+        "Hb, Ht, trombosit",
+        "Hb, retikulosit, leukosit",
+        "Hb, eosinofil, MCV"
+      ]
+    },
+    {
+      "question": "Seorang ibu hamil mau melahirkan secara sectio caesarea. Maka dokter meminta pemeriksakan PT (Prothrombin Time) dan APTT (activated partial thromboplastin time). Pemeriksaan PT (Prothrombin Time) adalah merupakan pemeriksaan?",
+      "answer": 1,
+      "choices": [
+        "Merupakan tes penyaring pembekuan darah melalui jalur intrinsik dan jalur bersama",
+        "Merupakan tes penyaring pembekuan darah melalui jalur ekstrinsik dan jalur bersama",
+        "Faktor koagulasi I dan II saja",
+        "Faktor koagulasi V dan VII saja",
+        "Faktor koagulasi X saja"
+      ]
+    },
+    {
+      "question": "Seorang pasien mengalami keluhan umumnya seperti sakit kepala, sakit dada,sering pingsan, kelelahan, kesemutan, memar pada kulit, mengalami pendarahan dari hidung, mulut dan terganggunya penglihatan (sementara). Setelah di periksa Darah rutin ternyata jumlah trombosit 500.000 per microliter darah. Dengan jumlah trombosit tersebut maka disebut?",
+      "answer": 2,
+      "choices": [
+        "Trombositopathi",
+        "Tromboplastin",
+        "Trombositosis",
+        "Trobositopenia",
+        "Polisitemia"
+      ]
+    },
+    {
+      "question": "Seorang bayi laki-laki berusia 1 hari dibawa ibunya ke emergensi anak RS karena perdarahan dari tali pusat. Perdarahan terjadi beberapa jam setelah lahir, darah terlihat merembes. Bayi menangis dan menetek kuat. Pada pemeriksaan laboratorium didapatkan CBC dalam batas normal, BT normal, CT, PT dan aPTT memanjang. Apakah diagnosis paling mungkin pasien di atas?",
+      "answer": 4,
+      "choices": [
+        "Hemofilia A",
+        "Hemofilia B",
+        "Koagulasi intravaskular diseminata",
+        "Penyakit perdarahan akibat kelainan hati",
+        "Penyakit perdarahan akibat defisiensi vitamin K (PDVK)"
+      ]
+    },
+    {
+      "question": "Seorang pasien mengalami perubahan warna kulit yang disebabkan oleh terjadinya perdarahan di bawah kulit yang memiliki ukuran pulpura lebih besar dari 1 cm tetapi hal tersebut tidak disebabkan oleh benturan, kelainan apa yang terjadi pada pasien tersebut?",
+      "answer": 0,
+      "choices": [
+        "Ekimosis",
+        "Ptechiae",
+        "Lesi Vaskular",
+        "Kelainan Kolagen",
+        "Atropi Kolagen"
+      ]
+    },
+    {
+      "question": "Seorang wanita berusia 28 tahun datang ke dokter dengan keluhan mudah memar, mengalami pendarahan spontan dari hidung atau mulut dan pasien mengaku mengkonsumsi aspirin untuk meredakan nyeri dan bengkak. Dokter mendiagnosis pasien menderita ITP (Idiopathic Thrombocytopenic Purpura) dan dokter menyarankan untuk melakukan pemeriksaan darah lengkap. Setelah dilakukan pemeriksaan, didapatkan hasil jumlah trombosit yang kurang dari normal.Apa penyebab rendahnya jumlah trombosit pada pasien tersebut?",
+      "answer": 1,
+      "choices": [
+        "Gangguan produksi akibat mieoloma multiple",
+        "Peningkatan destruksi trombosit akibat autoimun",
+        "Kekurangan vitamin B12 dan asam folat",
+        "Sedang menjalani kemoterapi",
+        "Penurunan resistensi sumbat trombosit"
+      ]
+    },
+    {
+      "question": "Sel ini mempunyai granula sitoplasmanya lebih kasar dan lebih merah dan jarang intinya lebih dari 3 lobus. Masa singgah sel ini dalam darah lebih panjang dibandingkan neutrofil. Sel-sel ini memasuki eksudat radang dan mempunyai peran khusus dalam respon alergi; pertahanan terhadap parasit.Sel apakah yang dimaksud tersebut ?",
+      "answer": 2,
+      "choices": [
+        "Netrofil segmen",
+        "Basofil",
+        "Eosinofil",
+        "Monosit",
+        "Limfosit"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan fragilitas osmotik, ketika larutan hipotonik dicampurkan dengan sel darah maka eritrosit tidak mampu menahan tekanan sejumlah air yang masuk sehingga membran eritrosit pecah dan hemoglobin keluar mewarnai larutan sekelilingnya menjadi berwarna merah. Hasil yang didapatkan adalah cairan seluruhnya berwarna merah dan tidak ada gumpalan eritrosit di dasar tabung.Apa Interpretasi hasil di atas ?",
+      "answer": 2,
+      "choices": [
+        "Awal hemolisis",
+        "Permulaan hemolisis",
+        "Hemolisis total",
+        "Resistenti minimal",
+        "Resistensi osmotik"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan hitung jumlah leukosit manual dapat menggunakan larutan Turk. Prinsip pemeriksaan ini adalah dengan penambahan larutan Turk maka darah akan menjadi encer dan sel lain selain leukosit akan lisis.Reagen apa yang berperan untuk melisiskan sel-sel tersebut ?",
+      "answer": 3,
+      "choices": [
+        "Asam klorida",
+        "Asam sulfat",
+        "Asam askorbat",
+        "Asam asetat glasial",
+        "Asam sulfosalisilat"
+      ]
+    },
+    {
+      "question": "Jika rumus hitung retikulosit adalah : 100 x jumlah retikulosit/jumlah eritrositSeorang ATLM sedang melakukan pemeriksaan hitung jumlah retikulosit, ditemukan 7 retikulosit dan seluruh eritrosit yang dihitung dalam 12 lapang pandang adalah 1050.Berapa jumlah retikulosit yang sebenarnya ?",
+      "answer": 0,
+      "choices": ["0,66%", "0,01%", "0,07%", "0,70%", "0,06%"]
+    }
+  ],
+  "kimklin": [
+    {
+      "question": "Sampel urin seorang pasien diserahkan dengan volume sekitar 30 mL. ATLM yang menerima sampel mengonfirmasi kepada pasien agar memberikan sampel sesuai volume gelas sampel. Namun pasien menyatakan sampel yang diberikan sudah semuanya. Kondisi pasien tersebut dinamakan?",
+      "answer": 0,
+      "choices": ["Anuria", "Poliuria", "Oliguria", "Nokturia", "Proteinuria"]
+    },
+    {
+      "question": "Metode carik celup dapat digunakan pada pemeriksaan urin secara cepat. Beberapa carik celup dapat memeriksa hingga 10 parameter. Namun ada beberapa parameter yang tidak dapat dideteksi oleh carik celup. Parameter tersebut adalah?",
+      "answer": 3,
+      "choices": ["protein", "blood", "bilirubin", "darah samar", "benda keton"]
+    },
+    {
+      "question": "Pada penelitian kualitatif merkuri dalam kosmetik jenis pemutih di pasaran. Hasil reaksi warna dengan KI terbentuk warna merah muda yang setelah beberapa detik warna hilang. Pemeriksaan dengan reaksi warna dilakukan secara duplo dan dengan control positif dan negative. Kontrol positif menunjukkan warna merah muda yang permanen, sementara control negative tidak berwarna. Metoda apa yang paling tepat untuk mengkonfirmasi hasil tersebut?",
+      "answer": 1,
+      "choices": [
+        "Spektrofotometri UV – VIS",
+        "Spektrofotometri AAS",
+        "Spektrofotometri IR",
+        "Membandingkan dengan control positif",
+        "Membandingkan dengan control negative"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan hitung jenis leukosit seorang laki-laki berusia 25 tahun yang mengalami anemia berat dan bekerja di bengkel pengecatan mobil, didapatkan hasil salah satu sel yang melebihi nilai normal, dengan ciri-ciri gambar seperti dibawah ini. Keracunan apakah pria tersebut?",
+      "answer": 1,
+      "choices": [
+        "Merkuri",
+        "Plumbum (Pb)",
+        "Cadmium",
+        "Chromium",
+        "Tembaga (Cu)"
+      ],
+      "image": "download%20(4).jpeg"
+    },
+    {
+      "question": "Seorang laki laki berusia 45 tahun meninggal setelah mengkonsumsi suatu makanan. Ciri ciri mayat hipoxia jaringan, terdapat ruam merah “Cherry red”. Hasil dengan uji prussian blue menunjukkan warna biru. Keracunan terjadi akibat?",
+      "answer": 2,
+      "choices": [
+        "Karbon monoksida",
+        "Karbon disulfida",
+        "Sianida",
+        "Arsen",
+        "Nitrit"
+      ]
+    },
+    {
+      "question": "Kasus (vignette) Dilakukan analisa secara kuantitatif etanol dalam sampel darah seorang pasien laki laki usia 18 tahun yang didiagnosa dokter mengalami keracunan etanol. Analisis dilakukan secara spektrofotometri. Jika analisis tersebut tertunda karena sesuatu hal, Jenis pengawet apakah yang harus ditambahkan ?",
+      "answer": 4,
+      "choices": [
+        "Alkohol absolute (96 %)",
+        "Na azida 1%",
+        "NaCl Jenuh",
+        "Eter",
+        "NaF"
+      ]
+    },
+    {
+      "question": "Sampel muntahan diperiksa di laboratorium.Muntahan tersebut berasal dari petani yangkeracunan pestisida. Sampel muntahan tersebutdiuji menggunakan kromatografi lapis tipis. Dandidapat kromatogram seperti gambar 1. Petani tersebut keracunan pestisida?",
+      "answer": 0,
+      "choices": ["Azax", "Endrin", "Metoksiklor", "TEPP", "Temix"],
+      "image": "Screen%20Shot%202022-04-08%20at%2021.27.26.png"
+    },
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan kadararsen dalam suatu sampel menggunakanspektrofotometer. Jika diketahui standar arsendengan konsentrasi 250 ppm memilkiabsorbansi 0,450, tentukan konsentrasisampel jika absorbansinya sebesar 0,150 !",
+      "answer": 2,
+      "choices": ["8,3 ppm", "75 ppm", "83,3 ppm", "250 ppm", "750 ppm"]
+    },
+    {
+      "question": "Pemeriksaan fecal occult blood (FOB) dalam feses dapat menggunakan metode Benzidine Tauber mapun rapid test. Prinsip pemeriksaan FOB rapid test yaitu?",
+      "answer": 3,
+      "choices": [
+        "Hemoglobin dioksidasi dengan peroksida menghasilkan warna merah",
+        "Hemoglobin dioksidasi benzidine menjadi warna biru",
+        "Hemoglobin membentuk kompleks biru dengan guaiac",
+        "Antigen hemoglobin bereaksi dengan antibody antiHb",
+        "Antibodi hemoglobin bereaksi dengan antigen antiHb"
+      ]
+    },
+    {
+      "question": "Sampel LCS dilakukan pemeriksaan protein secara kualitatif menggunakan reagen None-Apelt. Hasil menunjukkan adanya cincin putih, ATLM mengocok tabung tersebut dan tabung menjadi keruh.Bagaimana intepretasi hasil LCS tersebut?",
+      "answer": 3,
+      "choices": [
+        "Negative",
+        "Positif 1",
+        "Positif 2",
+        "Positif 3",
+        "Positif 4"
+      ]
+    },
+    {
+      "question": "Hasil pemeriksaan mikroskopis sampel semen Mr. Y didapat hasil hampir 25% sel sperma bergerak berputar di tempat. Menurut standar WHO, bagaimana gambaran hasil tersebut?",
+      "answer": 2,
+      "choices": ["Grade A", "Grade B", "Grade C", "Grade D", "Grade E"]
+    },
+    {
+      "question": "Keberadaan logam merkuri dalam suatu analitdapat dianalisis secara kualitatif menggunakanlogam tembaga pada suasana asam.Senyawa apa yang digunakan untuk memberisuasana asam pada pengujian tersebut ?",
+      "answer": 0,
+      "choices": [
+        "Asam klorida",
+        "Asam sianida",
+        "Asam asetat",
+        "Asam nitrat",
+        "Asam fosfat"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta untuk memeriksa kadar kreatinin seorang pasien yang mengalami gagal ginjal kronis dan rutin memeriksakan kadar kreatinin darahnya. Pasien tersebut ternyata sebelum dilakukan pemeriksaan telah mengkonsumsi vitamin C sebanyak 500 mg. Kadar kreatinin yang diperoleh ternyata meningkat 20 % dari hasil laboratorium pasien sebelumnya. Berdasarkan kondisi tersebut, senyawa yang dapat berpengaruh terhadap kadar kreatinin pasien?",
+      "answer": 0,
+      "choices": [
+        "Asam askorbat",
+        "Bilirubin",
+        "Asam urat",
+        "asetoasetat",
+        "piruvat"
+      ]
+    },
+    {
+      "question": "Seorang dokter patologi klinik meminta atlm untuk melakukan elektroforesis protein. Apa jenis protein yang memiliki presentasi 50% dari jumlah protein keseluruhan?",
+      "answer": 3,
+      "choices": [
+        "α1-globulin",
+        "α2-globulin",
+        "β1- globulin",
+        "albumin",
+        "β2- globulin"
+      ]
+    },
+    {
+      "question": "Seorang dokter patologi klinik meminta atlm untuk melakukan elektroforesis protein. Apa jenis protein yang memiliki presentasi 50% dari jumlah protein keseluruhan?",
+      "answer": 3,
+      "choices": [
+        "α1-globulin",
+        "α2-globulin",
+        "β1- globulin",
+        "albumin",
+        "β2- globulin"
+      ]
+    },
+    {
+      "question": "Seorang dokter patologi klinik meminta atlm untuk melakukan elektroforesis protein. Apa jenis protein yang memiliki presentasi 50% dari jumlah protein keseluruhan?",
+      "answer": 3,
+      "choices": [
+        "α1-globulin",
+        "α2-globulin",
+        "β1- globulin",
+        "albumin",
+        "β2- globulin"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta dokter patologi klinik untuk memberikan informasi kepada pasien yang akan melakukan pemeriksaan glukosa darah puasa. Penjelasan seperti apa yang harus disampaikan terkait hal tersebut?",
+      "answer": 2,
+      "choices": [
+        "pasien diminta berpuasa selama 6 jam sebelum melakukan pemeriksaan esok hari.",
+        "pasien diminta berpuasa selama 8 jam sebelum melakukan pemeriksaan esok hari.",
+        "pasien diminta berpuasa selama 10 - 12 jam sebelum melakukan pemeriksaan esok hari.",
+        "pasien diminta berpuasa selama 5 jam sebelum melakukan pemeriksaan esok hari.",
+        "Pasien tidak diberikan penjelasan apapun, hanya diminta untuk datang kembali besok ke laboratorium."
+      ]
+    },
+    {
+      "question": "Seorang pasien yang diduga mengalami diabetes datang ke laboratorium untuk melakukan pemeriksaan gula darah. setelah diperoleh hasilnya ternyata dokter ragu dengan hasil yang diberikan. Berdasarkan kondisi di atas, sebagai atlm perkirakan pemeriksaan apa yang disarankan dokter lebih lanjut?",
+      "answer": 1,
+      "choices": [
+        "Uji HbA1C",
+        "Uji TTGO",
+        "Uji gula darah sewaktu",
+        "Uji gula darah puasa",
+        "Uji guladarah 2 jam setelah makan"
+      ]
+    },
+    {
+      "question": "Pada saat pemeriksaan asam urat, uricase dalam reagen akan bereaksi dengan asam urat membentuk suatu senyawa alantoin dan hydrogen peroksida sebagai hasil samping yang kemudian akan bereaksi dengan 4 aminoantipyrin yang menghasilkan quinoimin. Berdasarkan pernyataan di atas senyawa mana yang diukur dengan spektrofotometer yang menggambarkan kadar asam urat seseorang?",
+      "answer": 3,
+      "choices": [
+        "hidrogenperoksida",
+        "alantoin",
+        "uricase",
+        "quinoimin",
+        "4aminoantipyrin"
+      ]
+    },
+    {
+      "question": "Reaksi yang terjadi antara sampel dengan reagen pada pH sedikit asam menghasilkan perubahan warna dari kuning hijau menjadi hijau biru yang absorbansinya di ukur pada spektrofotometer Panjang gelombang 632 nm. Reagen apa yang digunakan dalam pemeriksaan tersebut?",
+      "answer": 1,
+      "choices": [
+        "Biuret",
+        "Bromkresolgreen",
+        "Uricase",
+        "Glukose oksidase",
+        "hidrogenperoksida"
+      ]
+    },
+    {
+      "question": "Seorang ATLM mendapatkan sampel darah untuk diperiksa profil lipidnya. bersadarkan diagnosis dokter yang diketahui dari formulir pemeriksaan, wanita tersebut mengalami dislipidemia. Berdasarkan kondisi tersebut, bagaimana perkiraan kadar kolesterol pasien?",
+      "answer": 2,
+      "choices": [
+        "kolesterol total ≤ 200 mg/dL",
+        "kolesterol total antara 200 mg/dL – 239 mg/dL",
+        "kolesterol total ≥ 240 mg/dL",
+        "kadar LDL < 100 mg/dL",
+        "kadar LDL 130 mg/dL – 159 mg/dL"
+      ]
+    },
+    {
+      "question": "Seorang pria 21 tahun , dirawat di sebuah RS , dengan keluhan panas badan,selanjutnya pasien tersebut dilakukan pemeriksaan laboratorium , didapatkan urinepasien tersebut berwarna seperti air teh, menurut sdr , pemeriksaan laboratoriumlanjutan apakah yang diperlukan untuk menunjang diagnosis pasien ini n?",
+      "answer": 1,
+      "choices": [
+        "pemeriksaan LDH",
+        "pemeriksaan AST",
+        "pemeriksaan Troponin",
+        "pemeriksaan bilirubin",
+        "pemeriksaan aldolase"
+      ]
+    },
+    {
+      "question": "Pemeriksaan SGOT dalam darah merupakan pemeriksaan yang paling spesifik padakelainan organ Liver, bagaimana pendapat sdr tentang pernyataan ini ?",
+      "answer": 2,
+      "choices": [
+        "Benar, karena pemeriksaan enzim SGOT ini pertama kali ditemukan pada kelainan liver",
+        "Benar, karena enzim SGOT berada didalam sel liver",
+        "Tidak benar, karena di sel sel lain selain hati enzyme SGOT juga ditemukan",
+        "Tidak benar, karena enzyme SGOT terdapat didalam sel otot jantung",
+        "benar karena enzym SGOT ini merupakan marker dari kelainan hati"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan gangguan fungsi liver, seringkali diminta pemeriksaan bilirubin darah,apa metode yang dipakai pada Penemeriksaan bilirubin tersebut ?",
+      "answer": 2,
+      "choices": ["Kinetic", "End point", "Fixed time", "Immune assay", "Elisa"]
+    },
+    {
+      "question": "Seorang Pria berusia 63 tahun datang ke poliklinik sebuah RS dengan keluhan perutmembesar , kedua tungkai bengkak, dan kulit tampak kekuningan, oleh dokter pemeriksapasien tersebut didiagnosa Cirhosis Hepatis. Selanjutnya pasien tersebut dilakukanpemeriksaan laboratorium, menurut sdr pemeriksaan dibawah ini mana yang palingspesifik untuk kelainan liver penderita tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Pemeriksaan SGOT",
+        "Pemeriksaan SGPT",
+        "Pemeriksaan bilirubin darah",
+        "Pemeriksaan Gamma GT",
+        "Pemeriksaan alfa feto Protein"
+      ]
+    },
+    {
+      "question": "Enzim ini tidak spesifik menunjukkan kelainan organ , karena enzim ini selain terdapat disel otot jantung, juga ditemukan didalam sel hati , menurut sdr enzim yang mana yangmemepunyai sifat seperti itu ?",
+      "answer": 1,
+      "choices": [
+        "Enzim troponin",
+        "Enzim AST /SGOT",
+        "Enzim ACE",
+        "Enzim myoglobin",
+        "Enzim CK-MB"
+      ]
+    },
+    {
+      "question": "Seorang wanita 46 tahun , berobat ke RS dengan keluhan kulit tubuhnya berwarnakuning dan bila BAB, fesesnya berwarna putih seperti dempul. Selanjutnya dilakukanpemeriksaan laboratorium dan didapatkan hasil sebagai berikut :SGOT meningkat,SGPT meningkat, bilirubin total meningkat, bilirubin direk meningkat , bilirubin indirekdalam batas normal, menurut sdr hasil pemeriksaan diatas menunjang ke kelainan apa ?",
+      "answer": 1,
+      "choices": [
+        "Kelainan liver pre hepatic",
+        "Kelainan liver hepatic",
+        "Kelainan liver post hepatic",
+        "Kelainan jantung",
+        "Kelainan pancreas"
+      ]
+    },
+    {
+      "question": "Seorang pria 67 tahun datang ke IGD sebuah Rumah sakit dengan keluhan sakit dadakiri yang hebat, pemeriksaan laboratorium apakah yang dapat mendeteksi dini adatidaknya serangan jantung ?",
+      "answer": 0,
+      "choices": ["Troponin", "CK-MB", "AST", "ALP", "LDH"]
+    },
+    {
+      "question": "Pada saat kita mengambil sampel darah untuk pemeriksaan enzim, setelah sampel darah tersebut didiamkan selama 30 menit, didapatkan cairan pada sampel darah tersebut berwarna kemerahan, apa yang harus kita lakukan ?",
+      "answer": 2,
+      "choices": [
+        "Melakukan sentrifuse dengan kecepatan 3.000 rpm selama 15 menit,",
+        "Menyaring sampel tersebut dengan kertas saring , dan dipisahkan antara sel darah dengan cairan darahnya",
+        "Melakukan sentrifuse dengan kecepatan tinggi selama 30 menit, dan selanjutnya cairan darah tersebut dipisahkan dari sel darahnya",
+        "Mengambil ulang sampel darah yang baru",
+        "Beri larutan blanko, dan biarkan beberapa menit, kemudian pisahkan sel darah dengan cairan darahnya"
+      ]
+    },
+    {
+      "question": "Bilirubin didalam darah , dapat bersifat toksis, oleh karena itu bilirubin ini oleh liver akandidetoksifikasi dan di eksresikan kedalam saluran pencernaan bersama dengan empedu.Dari jenis bilirubin ini ada yang mempunyai sifat tidak larut didalam air, bilirubin manakahyang mempunyai sifat tidak larut didalam air tersebut ?",
+      "answer": 2,
+      "choices": [
+        "Bilirubin total",
+        "Bilirubin direk",
+        "Bilirubin indirek",
+        "Bilirubin conyugated",
+        "Biliverdin"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan Enzym , dibutuhkan Panjang gelombang tertentu, bila kitamenggunakan alat photometer, Berapa panjang gelombang yang dipakai padapemeriksaan enzym tersebut ?",
+      "answer": 2,
+      "choices": ["546 nm", "400 nm", "340 nm", "578 nm", "624 nm"]
+    },
+    {
+      "question": "Pada saat pemeriksaan laboratorium , harus diperhatikan tahap tahap pemeriksaan ,antara lain tahap pra analitik, tahap analitik dan tahap pasca analitik, apa tujuan daripelaksanaan tahap pra analitik tersebut ?",
+      "answer": 4,
+      "choices": [
+        "Menyajikan hasil yang akurat",
+        "Menyajikan hasil yang baik presisinya",
+        "Mempersiapkan sampel pemeriksaan yang memenuhi syarat",
+        "Memberikan laporan hasil pemeriksaan yang benar",
+        "Menyajikan hasil laboratorium yang dapat diandalkan"
+      ]
+    },
+    {
+      "question": "Metode Apa yang dipakai untuk pemeriksaan glukosa darah dengan alat fotometer ?",
+      "answer": 1,
+      "choices": [
+        "Kinetic",
+        "End point",
+        "ISE (ion Selective Elektrode)",
+        "enzimatik",
+        "Immunoassay"
+      ]
+    },
+    {
+      "question": "Untuk pemeriksaan glukosa dalam darah , sebagai bahan pemeriksaannya adalah serumdarah .Bagaimana cara membuat serum dari sampel darah dengan baik?",
+      "answer": 3,
+      "choices": [
+        "membiarkan dahulu sampel darah selama 10 menit selanjutnya melakukan sentrifus dengan kecepatan 2500 rpm selama 5 menit",
+        "membiarkan dahulu sampel darah selama 10 menit selanjutnya melakukan sentrifus dengan kecepatan 1500 rpm selama 10 menit",
+        "membiarkan dahulu sampel darah selama 20 menit selanjutnya menambahkan antikoagulan sebanyak 1 ml",
+        "membiarkan dahulu sampel darah selama 30 menit selanjutnya melakukan sentrifus selama 15 menit dengan kecepatan 3500 rpm",
+        "langsung disentrifuse dengan kecepatan 3500 rpm selama 30 menit"
+      ]
+    },
+    {
+      "question": "Small dense lipoprotein merupakan Partikel yang paling berbahaya karena dapatmenyebabkan atherosclerosis .Termasuk kelompok lipoprotein mana Small dense tersebut ?",
+      "answer": 2,
+      "choices": [
+        "IDL kolestrol",
+        "HDL kolestrol",
+        "LDL kolestrol",
+        "VLDL kolestrol",
+        "Apolipoprotein A"
+      ]
+    },
+    {
+      "question": "Seorang laki laki 76 tahun datang ke laboratorium sdr untuk dilakukan pemeriksaanlaboratorium sebagai berikut : glukosa puasa, glukosa 2 jam pp, HbA1 C, kolestrol,trigliserida, HDL dan LDLDari pemeriksaan laboratorium diatas , pemeriksaan manakah yang tidak dipengaruhi olehmakanan ?",
+      "answer": 2,
+      "choices": [
+        "glukosa puasa",
+        "glukosa 2 jam pp",
+        "HbA1 C",
+        "kolestrol,",
+        "HDL"
+      ]
+    },
+    {
+      "question": "Pada pemeriksaan kimia darah , bila kita mendapatkan nilai absorbansi dari sampel darah0.98, nilai absorbansi dari larutan standard 0,6 dan konsentrasi larutan standard = 2 mg/dl,maka berapa konsentrasi sampel yang kita ukur ?",
+      "answer": 4,
+      "choices": [
+        "1,2 mg/dl",
+        "2,4 mg/dl",
+        "2,6 mg/dl",
+        "2,9 mg/dl",
+        "3,3 mg/dl"
+      ]
+    },
+    {
+      "question": "Seorang wanita datang ke laboratorium sdr untuk melakukan medical Check Up, hasilpemeriksaan laboratoriumnya didapatkan hasil sebagai berikut : HDL 15 mg /dl ( nilairujukan > 50 mg/dl), Kolestrol 198 mg/dl ( nilai rujukan < 200 mg/dl), LDL 135 mg/dl ( nilairujukan < 135 mg/dl) dan Trigliserida 140 mg/dl ( nilai rujukan < 150 mg/dl) , dari hasillaboratorium ini parameter manakah yang paling merupakan predisposisi terjadinyapenyakit jantung coroner ?",
+      "answer": 0,
+      "choices": [
+        "Kadar LDL",
+        "Kadar Kolestrol",
+        "Kadar HDL",
+        "Kadar Trigliserida",
+        "Ratio LDL /HDL"
+      ]
+    },
+    {
+      "question": "Pada pengukuran kadar glukosa dalam darah dengan alat photometer dibutuhkan beberapa jenis larrutan tertentu yaitu antara lain larutan blanko, larutan standard, larutan control, sampel darah dan larutan pengencer. Untuk menghitung konsentrasi glukosa ,dalam darah, maka larutan mana yang dibutuhkan untuk perhitungan konsentrasi glukosa tersebut ?",
+      "answer": 1,
+      "choices": [
+        "larutan blanko",
+        "larutan standard",
+        "larutan kontrol",
+        "larutan sampel darah",
+        "larutan pengencer"
+      ]
+    },
+    {
+      "question": "Pada infark miokard (serangan jantung koroner), enzim jantung yang dapat digunakansebagai penanda serangan ulangan karena kadarnya cepat meningkat di awal serangan dancepat menurun kembali adalah?",
+      "answer": 2,
+      "choices": ["Troponin T", "Mioglobin", "CK-MB", "Troponin I", "LDH-1"]
+    },
+    {
+      "question": "Pada kasus ikterik (kulit kuning) pada neonatus (bayi usia 0-7 hari) biasanyamenunjukkan peningkatan parameter fungsi hepar sebagai berikut?",
+      "answer": 2,
+      "choices": [
+        "Enzim aminotransferase",
+        "Enzim LDH",
+        "Bilirubin total dan bilirubin indirek",
+        "Bilirubin total dan bilirubin direk",
+        "Bilirubin direk dan indirek."
+      ]
+    },
+    {
+      "question": "Pasien wanita usia 50 tahun, datang ke klinik penyakit dalam dengan keluhan sklera matakuning (ikterik). Pemeriksaan USG abdomen menunjukkan adanya batu di saluran empedu.Hasil pemeriksaan kimia yang mendukung kondisi tersebut adalah?",
+      "answer": 0,
+      "choices": [
+        "Peningkatan kadar enzim GGT dan ALP",
+        "Peningkatan kadar enzim LDH dan SGOT",
+        "Peningkatan kadar enzim SGOT dan SGPT",
+        "Peningkatan kadar enzim LDH dan ALP",
+        "peningkatan kadar enzim GGT dan SGOT"
+      ]
+    },
+    {
+      "question": "Pasien dengan gangguan fungsi jantung (infark miokardium akut/penyakit jantungkoroner) dapat dikelirukan dengan dugaan pasien gangguan fungsi hepar karena keduanyadapat menunjukkan peningkatan kadar SGOT. Untuk membedakan kedua kondisi tersebutperlu disertai pemeriksaan yang lebih spesifik untuk gangguan fungsi hepar. Saran parametertambahan yang dimaksud adalah?",
+      "answer": 0,
+      "choices": ["ALT/SGPT", "Troponin T", "CKMB", "AST", "LDH"]
+    },
+    {
+      "question": "Bagaimana seharusnya penanganan sampel untuk analisa gas darah?",
+      "answer": 0,
+      "choices": [
+        "Setelah pengambilan sampel, jarum spuit ditutup oleh sumbat gabus",
+        "Setelah pengambilan sampel darah langsung dimasukkan kedalam cool box",
+        "Sampel langsung disentrifugasi selama 15 menit dengan kecepatan 3000 rpm",
+        "Sampel dicampur dengan anti koagulan K2 EDTA terlebih dahulu ..",
+        "Setelah sampel diambil lakukan homogenisasi dengan baik,"
+      ]
+    },
+    {
+      "question": "Serangkaian proses yang dijalankan di laboratorium untuk memastikan bahwa prosespraanalitik, analitik dan pasca analitik telah dikerjakan dengan benar adalah?",
+      "answer": 1,
+      "choices": [
+        "Validasi",
+        "Verifikasi",
+        "Sensitivitas dan spesifisitas",
+        "Presisi dan akurasi",
+        "Reliabilitas"
+      ]
+    },
+    {
+      "question": "Verifikasi dan validasi hasil terkait penjaminan mutu laboratorium dapat dikerjakan apabilalaboratorium tersebut telah memenuhi persyaratan?",
+      "answer": 4,
+      "choices": [
+        "Aspek teknis, sehingga presisi dan akurasi tinggi serta memiliki kemampuan telusur dan terdokumentasi",
+        "Adanya proses terpadu mulai dari praanalitik sampai pasca analitik dan menerapkan QC internal dan QC eksternal",
+        "Menerapkan Pemantapan Mutu Internal (PMI) dan Pemantapan Mutu Eksternal (PME)",
+        "Aspek teknis dan dapat ditelusur serta terdokumentasi,",
+        "Aspek teknis, proses terpadu pra analitik-pasca analitik, kemampuan telusur dan terdokumentasi serta melaksanakan QC internal dan QC eksternal."
+      ]
+    },
+    {
+      "question": "Seorang anak datang dengan sesak nafas dan didiagnosis sebagai Asthma Bronkhiale,selanjutnya dilakukan pemeriksaan AGD dengan hasil PCO2 46 mmHg (normal: 35-45mmHg) dan HCO3 24 mmol/l (normal:22-26 mmol/L)?Apa penilaian sdr pada hasil diatas ?",
+      "answer": 3,
+      "choices": [
+        "metabolic asidosis",
+        "metabolic alkalosis",
+        "respiratorik alkalosis",
+        "respiratorik asidosis",
+        "metabolic alkalosis dengan kompensasi"
+      ]
+    },
+    {
+      "question": "Seorang pasien datang dengan sesak nafas dan selanjutnya dilakukan pemeriksaanAGD, dan didiagnosis sebagai Metabolik asidosisHasil laboratorium yang mana yang dapat menunjang diagnosis metabolik asidosis?",
+      "answer": 2,
+      "choices": [
+        "bila PCO2 48 mm Hg/l, HCO3 24 mmmol/l",
+        "bila PCO2 40 mmHg/l, HCO3 24mm mol/l",
+        "bila PCO2 40 mmHg/l, HCO3 20 mm mol/l",
+        "bila PCO2 35 mmHg/l, HCO3 24 mm mol/",
+        "Bila Bila PH darah 8.9"
+      ]
+    },
+    {
+      "question": "Seorang pasien datang dengan tidak sadar dan selanjutnya dilakukan pemeriksaananalisis gas darah (AGD). Diagnosis klinis pasien ini adalah: Metabolik Alkalosis.Hasil pemeriksan mana yang menunjang keadaan metabolik alkalosis tersebut ?",
+      "answer": 1,
+      "choices": [
+        "pH rendah, PCO2 di atas normal, HCO3 dibawah normal",
+        "pH tinggi, PCO2 normal,HCO3 di atas normal",
+        "pH tinggi, PCO2 di atas normal,HCO3 normal",
+        "pH rendah, PCO2 di atas normal,HCO3 di atas normal",
+        "pH tinggi, PCO2 di bawah normal,HCO3 di bawah normal"
+      ]
+    },
+    {
+      "question": "Apa jenis komponen metabolik yang berperan pada keseimbangan asam basa?",
+      "answer": 3,
+      "choices": ["PH", "PO 2", "PCO 2", "HCO3 -", "H2CO3"]
+    },
+    {
+      "question": "Seorang pasien datang ke IGD , dilakukan pemeriksaan AGD, berdasarkan hasilpemeriksaan AGD tersebut , pasien dinilai memiliki gejala respiratorik alkalosis , menurutsaudara mana hasil pemeriksaan laboratorium yang mendukung gejala pada kasus tersebut?",
+      "answer": 2,
+      "choices": [
+        "pH tinggi, PCO2 diatas normal, HCO3 diatas normal",
+        "pH rendah, PCO2 diatas normal,HCO3 normal",
+        "pH tinggi, PCO2 di bawah normal,HCO3 normal",
+        "pH rendah, PCO2 diatas normal,HCO3 diatas normal",
+        "pH tinggi, PCO2 normal,HCO3 diatas normal"
+      ]
+    },
+    {
+      "question": "Pengambilan darah sebaiknya tidak dilakukan setelah pasien mengonsumsi makan berlemakuntuk menghindari pembentukan cylomicron pada plasma yang dapat mempengaruhiabsorbansi ketika pembacaan pada alat. Pengambilan darah sebaiknya dilakukan setelahpasien berpuasa sehingga asupan lemak sudah dimetabolisme tubuh secara sempurna.Berapa lama puasa yang baik untuk pemeriksaan tersebut ?",
+      "answer": 2,
+      "choices": ["6 jam", "7 jam", "8 jam", "10 jam", "12 jam"]
+    }
+  ],
+  "imun": [
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan VDRL dengan metode aglutinasi. Persiapan yang dilakukan sebelum pemeriksaan adalah menyiapkan alat dan bahan berupa spesimen, pipet, reagen VDRL, Slide VDRL dan wadah desinfektan. Apa warna reagen yang dipakai untuk pemeriksaan tersebut ?",
+      "answer": 1,
+      "choices": ["Biru", "Hitam", "Kuning", "Merah", "Putih"]
+    },
+    {
+      "question": "Seorang wanita dengan keluhan terlambat haid ± 7 hari dan mengalami gejala mual di pagi hari melakukan pemeriksaan HCG dengan metode aglutinasi. Hasil pemeriksaan menunjukkan adanya aglutinasi. Apa penjaminan mutu yang dapat kita lihat pada pemeriksaan tersebut ?",
+      "answer": 2,
+      "choices": [
+        "Daerah Kontrol",
+        "Daerah Test",
+        "Slide Kontrol",
+        "Well Blanko",
+        "Well Kontrol"
+      ]
+    },
+    {
+      "question": "Seorang pasien pria dengan keluhan demam, nyeri sendi, terdapat ruam pada alat kelamin serta telapak tangan dan kaki, atas rujukan dokter pasien tersebut diambil serumnya untuk dilakukan pemeriksaan VDRL dengan metode aglutinasi. Hasil pemeriksaan menunjukkan adanya aglutinasi. Apa tujuan pemeriksaan pada pasien tersebut ?",
+      "answer": 3,
+      "choices": [
+        "Diagnostik",
+        "Medical Checkup",
+        "Palpasi",
+        "Skrining",
+        "Terapi"
+      ]
+    },
+    {
+      "question": "Seorang wanita dengan keluhan terlambat haid ± 7 hari dan mengalami gejala mual di pagi hari melakukan pemeriksaan HCG dengan metode aglutinasi. Hasil pemeriksaan menunjukkan adanya aglutinasi. Apa yang terkandung dalam reagen pemeriksaan tersebut ?",
+      "answer": 4,
+      "choices": [
+        "Anti α HCG",
+        "Anti β HCG",
+        "Antigen β HCG",
+        "Antigen α HCG yang dilapisi partikel lateks",
+        "Anti β HCG yang dilapisi partikel lateks"
+      ]
+    },
+    {
+      "question": "Seorang wanita dengan keluhan terlambat haid ± 7 hari dan mengalami gejala mual di pagi hari melakukan pemeriksaan HCG dengan metode aglutinasi. Hasil pemeriksaan menunjukkan adanya aglutinasi. Apa yang dilapisi dalam Anti β HCG pada reagen pemeriksaan tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Partikel Enzim",
+        "Partikel Lateks",
+        "Partikel Karbon",
+        "Partikel Koloid emas",
+        "Partikel Konjugat"
+      ]
+    },
+    {
+      "question": "Pemeriksaan Widal merupakan salah satu pemeriksaan untuk mengetahui adanya demam tifoid dimana mendeteksi antibodi spesifik dalam serum tersangka penderita demam tifoid dengan antigen somatik ( O ) dan antigen flagela (H) dalam reagen widal yang terdiri dari O, AO, BO, CO , H, AH, BH, CH. Apa yang terkandung dalam reagen widal AH pada pemeriksaan tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Salmonella typhi",
+        "Salmonella paratyphi A",
+        "Salmonella paratyphi B",
+        "Salmonella paratyphi C",
+        "Shigella sp"
+      ]
+    },
+    {
+      "question": "Atas rujukan dokter, seorang ATLM diminta melakukan pemeriksaan pada pasien dengan hasil pemeriksaan Widal positif antigen O dengan pengenceran 1/160 tidak menunjukkan adanya aglutinasi tapi pengenceran sebelumnya terbentuk. Berapa titer pada pemeriksaan tersebut ?",
+      "answer": 1,
+      "choices": ["1/40", "1/80", "1/160", "1/320", "1/640"]
+    },
+    {
+      "question": "Seorang ATLM diminta untuk melakukan pemeriksaan typhoid pada spesimen serum seorang pasien. Metode pemeriksaan yang digunakan adalah aglutinasi. Hasil pemeriksaan menunjukkan adanya gumpalan halus berwarna biru pada pengenceran 1/640. Berapa μl volume spesimen yang digunakan oleh ATLM tersebut?",
+      "answer": 2,
+      "choices": ["40", "20", "10", "5", "2,5"]
+    },
+    {
+      "question": "Seorang pria datang ke laboratorium dengan rujukan pemeriksaan ASTO. Spesimen disiapkan dan pemeriksaan dilakukan dengan metode aglutinasi. Setelah 2 menit terbentuk gumpalan pada papan aglutinasi. Apa kondisi yang dapat menyebabkan hasil positif palsu pada pemeriksaan tersebut?",
+      "answer": 0,
+      "choices": [
+        "Rhematoid Factor",
+        "Infeksi dini",
+        "Inflamasi",
+        "Hipersensitivitas tipe 1",
+        "Immunounresponsivenes"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta mengambil spesimen dari seorang wanita usia 68 tahun. Wanita tersebut datang dengan rujukan pemeriksaan HBsAg. Spesimen yang dibutuhkan untuk pemeriksaan tersebut adalah serum. Apa yang perlu ditanyakan oleh ATLM kepada pasien sebelum pengambilan spesimen tersebut?",
+      "answer": 3,
+      "choices": [
+        "Alamat rumah",
+        "Cara pembayaran",
+        "Status pernikahan",
+        "Nama lengkap",
+        "Nomor telpon"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta untuk melakukan pemeriksaan HIV pada seorang pasien. ATLM tersebut mengambil darah pasien dan melakukan pemeriksaan menggunakan metode imunokromatografi. Saat sedang melakukan pemeriksaan, darah pasien tumpah membasahi meja kerja. Apa tindakan yang harus segera dilakukan?",
+      "answer": 1,
+      "choices": [
+        "Melaporkan kasus ke penanganan infeksi",
+        "Membersihkan meja dengan larutan desinfektan",
+        "Meminta bantuan kepala laboratorium",
+        "Mengambil ulang darah pasien",
+        "Melanjutkan pemeriksaan dengan darah sisa"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta untuk melakukan pemeriksaan HIV pada suatu spesimen. Metode pemeriksaan yang digunakan adalah imunokromatografi. Setelah 15 menit terbentuk dua garis berwarna pada imunokromatografi tersebut. Apa yang harus dilakukan oleh ATLM tersebut?",
+      "answer": 1,
+      "choices": [
+        "Memberitahukan hasil kepada pasien",
+        "Melaporkan hasilnya pada dokter",
+        "Meminta izin kepada kepala lab untuk memberitahukan hasil",
+        "Tidak memberitahukan hasil tersebut kepada siapapun",
+        "Berdiskusi dengan ATLM senior"
+      ]
+    },
+    {
+      "question": "Seorang pasien usia 22 tahun datang rujukan pemeriksaan Hepatitis B. Spesimen dari pasien tersebut diambil, dipreparasi, dan dilakukan pemeriksaan menggunakan imunokromatografi. Hasil pemeriksaan spesimen tersebut adalah sebagai berikut: HBsAg (+), Anti-HBs (-), IgM Anti-HBC (-) dan IgG Anti-HBc (-). Apa jenis infeksi yang dialami pasien tersebut?",
+      "answer": 1,
+      "choices": ["Akut", "Kronik", "Natural", "Primer", "Sekunder"]
+    },
+    {
+      "question": "Seorang wanita dengan keluhan mual, sering buang air kecil, dan terlambat menstruasi selama 3 minggu datang ke laboratorium dengan membawa formulir pemeriksaan. ATLM melakukan pemeriksaan yang tertulis pada formulir tersebut. Apa spesimen yang tepat untuk pemeriksaan tersebut?",
+      "answer": 4,
+      "choices": ["Feses", "Plasma", "Serum", "Sputum", "Urin"]
+    },
+    {
+      "question": "Seorang wanita usia 75 tahun datang dengan keluhan nyeri dibagian persendian. Spesimen disiapkan dan direaksikan dengan reagen lateks. Hasil pemeriksaan menunjukkan hasil positif. Apa nama antibodi yang ada di dalam spesimen tersebut?",
+      "answer": 3,
+      "choices": [
+        "Antibodi non treponemal",
+        "Antibodi treponemal",
+        "Reagin",
+        "Rhematoid Factor",
+        "Rheumatoid Arthritis"
+      ]
+    },
+    {
+      "question": "Seorang pria dengan gejala ruam pada kelamin datang ke laboratorium. Pria tersebut membawa rujukan pemeriksaan sifilis. ATLM mengambil spesimen dan melakukan pemeriksaan menggunakan metode aglutinasi. Berapa lama waktu yang dibutuhkan untuk menginterpretasikan hasil pemeriksaan tersebut?",
+      "answer": 1,
+      "choices": ["10", "8", "6", "4", "2"]
+    }
+  ],
+  "parasit": [
+    {
+      "question": "Seorang ATLM menerima laporan gambaran kecacingan pada sejumlah anak SD dari sebuah penelitian. ATLM tersebut diminta untuk memeriksa tingkat infeksi dari anak-anak tersebut. Metode apakah yang paling tepat digunakan untuk kasus tersebut?",
+      "answer": 2,
+      "choices": [
+        "Option Natif",
+        "Flotasi",
+        "Kato-Katz",
+        "Sedimentasi",
+        "Harada mori"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan telur cacing ditemukan telur berbentuk oval, dinding satu lapis, tipis dan transparan. Apa nama spesies parasit tersebut ?",
+      "answer": 2,
+      "choices": [
+        "Ascaris lumbricoides",
+        "Enterobius vermicularis",
+        "Necator americanus",
+        "Trichuris trichiura",
+        "Trichinella spiralis"
+      ]
+    },
+    {
+      "question": "Seorang ATLM memeriksa populasi nyamuk di suatu kawasan pemukiman, dan menemukan nyamuk dengan warna dasar hitam disertai bintik-bintik putih pada kakinya, dan terlihat garis putih membujur pada bagian toraks seperti pada gambar berikut ini. Apakah nama spesies tersebut?",
+      "answer": 3,
+      "choices": [
+        "Culex pipiens",
+        "Aedes aegypti",
+        "Aedes triseratus",
+        "Aedes albopictus",
+        "Culex quenquefosciatus"
+      ],
+      "image": "Unknown.png"
+    },
+    {
+      "question": "Pemeriksaan feses anak laki-laki berusia 4 tahun yang dikirim oleh dokter dengan keterangan berat badan tidak naik sejak 1 tahun terakhir. Hasil pemeriksaan makroskopis terlihat feses tidak ada darah dan konsistensi keras, gambaran mikroskopis sebagai berikut : Apa nama lapisan terluar dari telur tersebut ?",
+      "answer": 0,
+      "choices": ["Albuminoid", "Hialin", "Kitin", "Sterol", "Vitelin"],
+      "image": "Picture5_002.png"
+    },
+    {
+      "question": "Seorang mahasiswa ATLM diminta membuat sediaan pemeriksaan malaria dengan cara sediaan hapus tipis (SHT) dan tetes tebal (STT). Pengamatan secara mikroskopis pada sediaan hapus tipis terlihat eritrosit tidak membesar, ditemukan bentuk titik kromatin rangkap (double chromatine), dan multiple infeksi. Apakah nama spesies parasit tersebut?",
+      "answer": 1,
+      "choices": [
+        "Plasmodium cynomolgi",
+        "Plasmodium falciparum",
+        "Plasmodium malariae",
+        "Plasmodium vivax",
+        "Plasmodium ovale"
+      ]
+    },
+    {
+      "question": "Seorang pasien dengan rekam medis sebelumnya positif malaria 6 bulan yang lalu. Hasil pemeriksaan Hb 6 gr/dl. Selanjutnya dilakukan pemeriksaan mikroskopis sediaan apus darah tipis dan diwarnai dengan giemsa, dijumpai eritrosit yang membesar berisi tropozoit cincin. Apakah spesies parasit dugaan penyebab pada kasus di atas?",
+      "answer": 0,
+      "choices": [
+        "Plasmodium vivax",
+        "Plasmodium knowlesi",
+        "Plasmodium ovale",
+        "Plasmodium malariae",
+        "Plasmodium falcifarum"
+      ]
+    },
+    {
+      "question": "Seorang laki-laki usia 16 tahun mengalami lesi di bagian kulit yang menyebar, berupa bercak hipopigmentasi. Terdapat di bagian leher, dada, lengan bagian atas, bahkan sampai ke muka. Pemeriksaan langsung terhadap kerokan kulit ditambah larutan KOH 10%, tampak sel-sel ragi berkelompok, berbentuk bulat atau oval, pseudohifa pendek dan melengkung.Apakah dugaan jamur yang menginfeksi pasien tersebut?",
+      "answer": 3,
+      "choices": [
+        "Microsporum sp.",
+        "Candida sp.",
+        "Piedraia sp.",
+        "Malassezia sp.",
+        "Aspergillus sp"
+      ]
+    },
+    {
+      "question": "Pasien laki-laki usia 78 tahun mengeluh mengalami paronikia pada jaringan di sekitar kuku. Permukaan kuku tidak rata, tidak mengkilat, rapuh, dan mengeras. Pemeriksaan langsung kerokan kuku ditambah larutan KOH 40 % ditemukan hifa maupun spora. Apa nama penyakit yang diderita pasien tersebut?",
+      "answer": 1,
+      "choices": [
+        "Dermatofitosis",
+        "Onikomikosis",
+        "Piedra",
+        "Pitiriasis Versikolor",
+        "Otomikosis"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan terhadap preparat apus darah untuk mengidentifikasi cacing mikrofilaria. Hasil pengamatan preparat didapatkan : Cacing mikrofilaria yang memiliki inti di dalam tubuhnya saling tumpang tindih dan juga dijumapai 2 buah inti pada ekor. Apakah spesies parasit pada sediaan tersebut?",
+      "answer": 1,
+      "choices": [
+        "Wuchereria bancrofti",
+        "Brugia malayi/Brugia timori",
+        "Loa loa",
+        "Onchocerca volvulus",
+        "Drancunculus medinensis"
+      ]
+    },
+    {
+      "question": "Seorang ATLM mengamati telur nyamuk dengan ciri-ciri bentuk lonjong seperti perahu, kedua ujung melancip dan pada bagian lateral dilengkapi dengan pelampung. Apakah nama spesies nyamuk tersebut?",
+      "answer": 3,
+      "choices": [
+        "Culex sp.",
+        "Aedes sp.",
+        "Mansonia sp.",
+        "Anopheles sp.",
+        "Toxorhynchites sp."
+      ]
+    },
+    {
+      "question": "Seorang wanita mengalami demam selama 10 hari setelah mengunjungi Papua. Selain demam, ditemui gejala lain seperti sakit kepala, nyeri otot, menggigil, berkeringat dan kelelahan. Hasil studi laboratorium sediaan apus tipis dengan pewarnaan Giemsa menunjukkan adanya bentuk cincin di dalam eritrosit. Apa vector penyakit tersebut?",
+      "answer": 0,
+      "choices": [
+        "Anopheles sp.",
+        "Culex sp.",
+        "Aedes aegypti",
+        "Phlebotomus sp.",
+        "Triatoma sp."
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pengamatan pada larva nyamuk, diperoleh hasil pengamatan mikroskopis larva nyamuk dengan ciri-ciri, memiliki gigi-gigi sisir (comb) yang berduri lateral berada di segmen abdomen ke 8, sebagai berikut: Apakah nama spesies larva nyamuk tersebut?",
+      "answer": 0,
+      "choices": [
+        "Aedes aegypti",
+        "Aedes albopictus",
+        "Anopheles sundaicus",
+        "Culex pipiens",
+        "Culex quinquefasciatus"
+      ],
+      "image": "Picture6.png"
+    },
+    {
+      "question": "Seorang ATLM melakukan pemeriksaan pada sampel perianal swab pada anak usia 10 tahun dengan gejala gatal didaerah perianal. Setelah dilakukan pemeriksaan mikroskopis ditemukan bentuk telur lonjong, asimetris, dan di dalamnya terdapat embrio melipat. Apa nama spesies parasit tersebut ?",
+      "answer": 2,
+      "choices": [
+        "Ancylostoma duodenale",
+        "Ascaris lumbricoides",
+        "Enterobius vermicularis",
+        "Necator americanus",
+        "Trichuris trichiura"
+      ]
+    },
+    {
+      "question": "Pemeriksaan feses anak perempuan berusia 6 tahun dengan gejala pucat , berat badan tidak naik sejak 1 tahun terakhir. Setelah dilakukan pemeriksaan mikroskopis ditemukan bentuk telur lonjong menyerupai tempayan, dinding dua lapis dan di bagian kedua ujungnya terdapat tutup (operkulum). Apa nama penyakit yang disebabkan oleh parasit tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Askariasis",
+        "Trikuriasis",
+        "Enterobiasis",
+        "Nekatoriasis",
+        "Ankilostomiasis"
+      ]
+    },
+    {
+      "question": "Seorang ATLM mendapatkan sampel feses dengan konsistensi encer, berwarna putih, tidak terdapat darah dan lendir. Pada pemeriksaan mikroskopis ditemukan protozoa dengan bentuk oval, dan inti yang samar berjumlah 2 buah. Apa nama parasit tersebut?",
+      "answer": 3,
+      "choices": [
+        "B. coli",
+        "E. coli",
+        "E. histolytica",
+        "G. lamblia",
+        "I. butschlii"
+      ]
+    },
+    {
+      "question": "Pemeriksaan feses anak laki-laki berusia 4 tahun yang dikirim oleh dokter dengan keterangan berat badan tidak naik sejak 1 tahun terakhir. Hasil pemeriksaan makroskopis terlihat feses tidak ada darah dan konsistensi keras, gambaran mikroskopis sebagai berikut : Apa nama spesies parasit tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Ancylostoma duodenale",
+        "Ascaris lumbricoides",
+        "Enterobius vermicularis",
+        "Necator americanus",
+        "Trichuris trichiura"
+      ],
+      "image": "Picture5.png"
+    }
+  ],
+  "sito": [
+    {
+      "question": "Seorang ATLM sedang mempersiapkan suatu medium yang didalamnya mengandung komposisi berupa kristal violet dan garam empedu (bile salt). Diketahui bahwa kedua senyawa tadi dapat menjadi racun bagi kelompok bakteri tertentu, tetapi dapat juga menyuburkan bakteri jenis lainnya. Berdasarkan komposisinya, termasuk jenis apakah medium tersebut?",
+      "answer": 1,
+      "choices": [
+        "Differensial",
+        "Selektif",
+        "Enrichment/penyubur",
+        "Universal",
+        "Penguji"
+      ]
+    },
+    {
+      "question": "Seorang dokter spesialis Patologi Anatomi ingin melihat suatu protein dan karbohidrat pada jaringan yang didiagnosis kanker. Metode yang dipilih untuk melihat penyebab terjadinya kanker tersebut adalah metode imunohistokimia. Apa prinsip kerja metode tersebut?",
+      "answer": 3,
+      "choices": [
+        "Reaksi antara antigen dan marker",
+        "Reaksi antara antigen dan substrat",
+        "Reaksi antara antibody dan marker",
+        "Reaksi antara antigen dan antibody",
+        "Reaksi antara antibody dan substrat"
+      ]
+    },
+    {
+      "question": "Petugas laboratorium sedang melakukan pengamatan menggunakan mikroskop pada hasil sediaan yang telah dipotong menggunakan mikrotom. Dari hasil pengamatan ternyata ditemukan artefak pada sediaan tersebut seperti yang ditunjukkan oleh tanda panah. Apa jenis artefak yang ditunjukkan oleh tanda panah tersebut ?",
+      "answer": 4,
+      "choices": ["Lipatan", "Goresan", "Pengerutan", "Pengecatan", "Kotoran"],
+      "image": "Picture1.png"
+    },
+    {
+      "question": "Seorang ATLM membuat sediaan yang berasal dari potongan tubuh manusia. Hasil dari penggunaan mikrotomi menunjukkan pita yang dihasilkan berbentuk seperti donat meskipun jaringan yang diblocking berbentuk bulat sempurna. Apa yang harus dilakukan oleh seorang analis ?",
+      "answer": 3,
+      "choices": [
+        "Meneruskan trimming",
+        "Meneruskan thin sectioning/slicing",
+        "Blocking ulang",
+        "Mengatur sudut mikrotom",
+        "Mengganti pisau"
+      ]
+    },
+    {
+      "question": "Hasil dari sediaan menunjukkan gambaran mikroskopis yang berwarna coklat untuk pewarnaan imunohistokimia. Hal ini menunjukkan ketidakpercayaan dokter terhadap hasil pewarnaan yang dilakukan oleh seorang ATLM. Teknik yang digunakan yang dilakukan adalah indirect technique. Kemungkinan yang dapat menyebabkan warna coklat yang tidak spesifik adalah?",
+      "answer": 3,
+      "choices": [
+        "Pencucian di air mengalir yang tidak baik",
+        "Adanya kontaminan dari sediaan",
+        "Adanya kontaminan dari reagen",
+        "Proses pembuangan antigen spesifik yang kurang baik",
+        "Proses pematangan sediaan yang tidak baik sehingga menghasilkan senyawa non spesifik"
+      ]
+    },
+    {
+      "question": "Seorang ATLM menerima sampel yang berasal dari bilasan paru. Langkap pertama yang dilakukan oleh ATLM adalah melakukan pengenceran menggunakan alkohol 70%. Berapa perbandingan sampel dan alcohol agar memberikan hasil yang maksimal?",
+      "answer": 1,
+      "choices": ["2:1", "1:1", "1:2", "3:2", "2:3"]
+    },
+    {
+      "question": "Hasil dari pewarnaan Giemsa pada suatu sediaan adalah berwarna ungu pekat sehingga komponen dari kromatin tidak terlihat. Apa yang harus dilakukan oleh seorang ATLM ?",
+      "answer": 1,
+      "choices": [
+        "Memasukkannya ke dalam basa lemah",
+        "Memasukkannya ke dalam asam lemah",
+        "Memasukkannya ke dalam basa kuat",
+        "Memasukkannya ke dalam asam kuat",
+        "Melakukan pewarnaan ulang"
+      ]
+    },
+    {
+      "question": "Seorang pasien umur 3 bulan memiliki benjolan di daerah leher dan melakukan pemeriksaan FNAB. Dokter melakukan prosedur FNAB kemudian menyerahkan sampel untuk diwarnai oleh ATLM di Laboratorium Patologi Anatomi. Pewarnaan apa yang harus digunakan oleh ATLM pada kasus tersebut?",
+      "answer": 3,
+      "choices": [
+        "Hematoxilin-Eosin",
+        "Imunohistokimia",
+        "Malory Azzam",
+        "Papaniculaouu",
+        "Neutral Red"
+      ]
+    },
+    {
+      "question": "Seorang ATLM menerima sampel yang dikirim menggunakan dry ice untuk pemeriksaan patologi molekuler. Seorang ATLM menerima sampel tersebut dan melakukan preparasi sampel. Apa nama tahap pengiriman menggunakan dry ice tersebut?",
+      "answer": 3,
+      "choices": [
+        "Dehidrasi",
+        "Stop Reaction",
+        "Clearing",
+        "Fiksasi",
+        "Washing"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pembuatan preparat histopatologi. Saat jaringan akan dilakukan pemotongan dengan mikrotom, ternyata jaringan yang telah diproses tersebut kering dan sangat keras, sehingga hasil potongan dengan mikrotom didapatkan hasil potongan yang pecah pecah. Kesalahan pada tahap apakah yang mungkin dilakukan ATLM tersebut ?",
+      "answer": 1,
+      "choices": [
+        "Fiksasi",
+        "Dehidrasi",
+        "Clearing",
+        "Infiltrasi parafin",
+        "Embedding"
+      ]
+    },
+    {
+      "question": "Petugas laboratorium ingin membuat pewarnaan rutin pada sediaan sitologik servik yang dibuat dari apusan konvensional. Dari hasil proses pewarnaan tersebut terlihat secara mikroskopis muncul warna ungu pada inti sel dan warna kemerahan pada sitoplasma sel tersebut. Warna merah pada sitoplasma ternyata muncul diseluruh jenis sel yang ada. Apa yang menyebabkan hal tersebut terjadi?",
+      "answer": 1,
+      "choices": [
+        "Hematoxylin yang bersifat asam",
+        "Perendaman di EA terlalu lama",
+        "Zat warna OG sudah mulai kurang baik",
+        "Light Green tidak baik dalam larutan pewarna",
+        "Pembuatan sel yang kurang baik khususnya difiksasi"
+      ]
+    },
+    {
+      "question": "Seorang ATLM mendapatkan sampel berupa organ hati yang disinyalir mengalami sirosis hepatis. Untuk dapat melihat tingkat sirosis maka perlu dilakukan pengecatan Masson Trichrome dalam melihat jaringan ikat. Hasil dari sediaan ternyata tidak muncul warna hijau atau biru sebagai penanda adanya jaringan ikat kolagen. Apa yang harus dilakukan ATLM untuk memastikan kolagen dalam jaringan ikat tersebut terwarnai ?",
+      "answer": 1,
+      "choices": [
+        "Meningkatkan konsentrasi anlilin blue atau light green",
+        "Memperlama durasi waktu anlilin blue atau light green",
+        "Memberikan warna pembanding",
+        "Mencuci sediaan dengan alkohol dengan waktu yang lebih lama",
+        "Memasukkan pita sediaan kedalam asam pikrat sebelum diwarnai"
+      ]
+    },
+    {
+      "question": "Terdapat seorang pasien yang dilakukan biopsi lambung per endoskopik, hasil diagnosis perlu diketahui adanya infeksi kuman Helicobacter pylori yang tahan terhadap asam lambung dan saat ini terbukti bisa menyebabkan kanker lambung. Pulasan histokimia apakah yang digunakan pada kasus tersebut?",
+      "answer": 2,
+      "choices": [
+        "Periodic Acid Schiff",
+        "Lyzer",
+        "Giemsa",
+        "Glikogen",
+        "Alcian Blue"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pemotongan menggunakan mikrotom. Hasil dari pemotongan tidak menghasilkan pita yang menyambung satu sama lain. Apa yang salah dari proses pembuatan sediaan tersebut?",
+      "answer": 4,
+      "choices": ["Fiksasi", "Dehidrasi", "Clearing", "Infiltrasi", "Mikrotomi"]
+    },
+    {
+      "question": "Petugas laboratorium ingin membuat pewarnaan rutin pada sediaan sitologik servik yang dibuat dari apusan konvensional. Dari formulir yang didapatkan, dokter meminta analis untuk mewarnai sediaan tersebut agar terlihat komponen anak inti yang lebih baik dan mampu melihat secara detail segmen yang terbentuk. Pewarnaan apa yang paling ideal dari permintaan dokter tersebut?",
+      "answer": 0,
+      "choices": [
+        "Giemsa",
+        "Metilen Blue",
+        "Papanicolaou",
+        "Masson trichrome",
+        "Hematoxylin Eosin"
+      ]
+    },
+    {
+      "question": "Seorang ATLM di laboratorium Patologi Anatomi sedang mengerjakan sampel jaringan mamae dengan cara merendam jaringan pada larutan alkohol bertingkat dari konsentrasi rendah ke konsentrasi tinggi dengan waktu tertentu. Apa tujuan dari prosedur pada kasus tersebut?",
+      "answer": 1,
+      "choices": [
+        "Untuk menghilangkan lemak pada jaringan",
+        "Menghilangkan air pada jaringan",
+        "Memberi warna pada jaringan",
+        "Menjernihkan jaringan",
+        "Menjaga kondisi sel"
+      ]
+    },
+    {
+      "question": "Seorang perempuan berusia 20 tahun hendak melakukan pemeriksaan pap smear, akan tetapi ternyata gadis tersebut baru saja selesai menstruasi. Informasi mengenai syarat-syarat pemeriksaan harus diberikan oleh seorang petugas laboratorium. Kapan sebaiknya pemeriksaan harus dilakukan?",
+      "answer": 1,
+      "choices": [
+        "1 minggu setelah menstruasi",
+        "2 minggu setelah menstruasi",
+        "3 hari setelah menstruasi",
+        "4 hari setelah menstruasi",
+        "5 hari setelah menstruasi"
+      ]
+    },
+    {
+      "question": "Seorang ATLM diminta mengerjakan sampel cito dugaan pasien diagnosis kanker dan terdapat penyakit menular dokter meninta pemeriksaan dengan metode berbasis proteomik dan genomic. Metode apa yang dimaksud?",
+      "answer": 4,
+      "choices": [
+        "Sitokimia",
+        "Sitopatologi",
+        "Histopatologi",
+        "Imunohistokimia",
+        "Hibridisasi In Situ"
+      ]
+    },
+    {
+      "question": "Seorang ATLM hendak melakukan pewarnaan Periodic Acid Schiff. Salah satu reagen yang harus disiapkan oleh ATLM tersebut adalah larutan Schiff yang akan merubah gugus aldehid menjadi warna magenta pada sediaan yang mengandung karbohidrat. Untuk memastikan larutan Schiff memiliki kualitas yang baik, maka ATLM harus melakukan pengujian paramater larutan Schiff yang baik dengan cara ?",
+      "answer": 2,
+      "choices": [
+        "Memastikan warna larutan adalah magenta",
+        "Mencampur dengan larutan asam yang akan menghasilkan warna kuning",
+        "Mencampur dengan fomalin sehingga menjadi magenta",
+        "Memberikan karbon aktif hingga warna menjadi bening",
+        "Menyaring dengan kertas saring pada botol coklat"
+      ]
+    },
+    {
+      "question": "Seorang ATLM melakukan pewarnaan PAS. Ketika hendak melakukan pewarnaan PAS, terlihat warna larutan Schiff berwarna kuning. Apa yang harus dilakukan oleh seorang ATLM",
+      "answer": 0,
+      "choices": [
+        "Memberikan karbon aktif pada larutan tersebut dan menyaring kembali",
+        "Membuat kembali larutan Schiff",
+        "Melaporkan kepada supervisor untuk menolak sediaan",
+        "Merujuk sampel ke laboratorium yang lain",
+        "Tetap melakukan pewarnaan tanpa merubah intruksi kerja atau SOP yang ada"
+      ]
+    },
+    {
+      "question": "Salah satu tahapan pembuatan sediaan jaringan adalah dehidrasi. Dehidrasi dilakukan secara bertingkat, dimana dapat dimulai dari alkohol 30%, 75% bahkan ada yang dimulai dari 95% hingga diakhiri dengan larutan dehidran murni (tanpa campuran aquades). Pemberian cairan bertingkat dan diakhiri dengan 2x sampai 3x larutan dehidran murni disebabkan karena ?",
+      "answer": 2,
+      "choices": [
+        "Menghindari kecepatan difusi osmosis yang dapat merusak sel",
+        "Agar air yang ada dalam jaringan mudah untuk tergantikan",
+        "Memastikan air dapat tertarik keluar dengan sempurna",
+        "Mempermudah proses lanjutan yaitu pembeningan",
+        "Membuat jaringan/organ menjadi tidak menyusut dan rusak"
+      ]
+    },
+    {
+      "question": "Seorang ATLM di laboratorium Patologi Anatomi menerima bahan pemeriksaan berupa jaringan mamae yang belum difiksasi. Formulir yang menyertakan jaringan tersebut ditulis permintaan pewarnaan Hematoxylin Eosin. Apa Larutan fiksasi yang di rekomendasikan untuk merendam jaringan tersebut ?",
+      "answer": 0,
+      "choices": ["10% NBF", "Bouin", "Muller", "Alkohol", "Zenker"]
+    },
+    {
+      "question": "Seorang ATLM melakukan proses pembuatan sediaan dari jaringan yang mengandung banyak lemak. Setelah dilakukan pemotongan trimming atau thick slice ternyata jaringan terlihat warna abu dibagian tengah dan sulit untuk dipotong. Apa yang kurang dalam proses tersebut?",
+      "answer": 1,
+      "choices": ["Fiksasi", "Dehidrasi", "Clearing", "Infiltrasi", "Mikrotomi"]
+    },
+    {
+      "question": "Seorang ATLM hendak membuat sediaan mikroskopis dari jaringan tumor tubuh pasien. Urutan langkah-langkah yang tepat pada dalam tahapan pengolahan jaringan untuk pembuatan blok parafin yang benar adalah :",
+      "answer": 1,
+      "choices": [
+        "Fiksasi, Dehidrasi, Clearing, Embedding (Blocking), microtomy, Staining",
+        "Fiksasi, Dehidrasi, Clearing, infiltrasi, Embedding, microtomy, Staining",
+        "Fiksasi, Dehidrasi, infiltrasi, Embedding, microtomy, Staining",
+        "Fiksasi, Dehidrasi, Sectioning, Embedding, Staining",
+        "Fiksasi, Dehidrasi, Clearing, infiltrasi, Embedding, Staining, Microtomy"
+      ]
+    },
+    {
+      "question": "Jaringan pasien yang berasal dari organ hati harus segera dilakukan tahap fiksasi. Yang bukan tujuan dari fiksasi jaringan adalah",
+      "answer": 3,
+      "choices": [
+        "Memadatkan dan mengeraskan agar mudah dipotong",
+        "Mencegah terjadinya ’ Autolisis ’",
+        "Mencegah kerusakan struktur jaringan",
+        "Memudahkan proses pembusukan jaringan agar mudah diproses",
+        "Memadatkan cairan koloid"
+      ]
+    },
+    {
+      "question": "Petugas laboratorium ingin membuat pewarnaan rutin pada sediaan sitologik servik yang dibuat dari apusan konvensional. Dari formulir yang didapatkan, dokter meminta analis untuk mewarnai sediaan tersebut agar terlihat komponen anak inti dan kematangan sel yang dilihat dari komponen sitoplasma. Pewarnaan apa yang paling ideal dari permintaan dokter tersebut?",
+      "answer": 1,
+      "choices": [
+        "Metilen Blue",
+        "Papanicolaou",
+        "Masson trichrome",
+        "Hematoxylin Eosin",
+        "Giemsa"
+      ]
+    },
+    {
+      "question": "Hasil dari suatu perwarnaan histologi menunjukkan sitoplasma berwarna biru muda, sedangkan untuk warna inti dari sel tersebut biru pekat. Apa yang harus dilakukan oleh seorang ATLM untuk menghindari warna biru pada sitoplasma dan membuat inti tidak terlalu pekat sehingga menghasilkan kekontrasan yang tinggi ?",
+      "answer": 4,
+      "choices": [
+        "Mengulangi pewarnaan kembali",
+        "Melakukan pengecekkan ulang larutan asam alkohol",
+        "Memeriksa kembali kualitas dari lithium karbonat",
+        "Mencuci lebih lama pada air mengalir",
+        "Merendam kembali sediaan dengan alkohol 95%"
+      ]
+    },
+    {
+      "question": "Seorang ATLM membuka basemold yang dibuat oleh rekannya. Hasil dari embedding menunjukkan jaringan ada dibagian pinggir sehingga sangat tidak simetris. Hal yang dapat menyebabkan hal itu terjadi adalah?",
+      "answer": 3,
+      "choices": [
+        "Salah memilih basemold yang seharusnya jenis L",
+        "Terlalu banyak mengisi paraffin pada basemold",
+        "Kaset terlalu dingin ketika hendak menutup basemold",
+        "Kaset ditutup ketika basemold masih panas alasnya",
+        "Paraffin terlalu panas sehingga posisi dapat bergeser"
+      ]
+    }
+  ]
+}
