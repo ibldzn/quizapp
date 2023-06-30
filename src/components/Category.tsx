@@ -7,7 +7,7 @@ export interface ICategoryProps {
 export const Category = ({ category }: ICategoryProps) => {
   return (
     <Link
-      to={`/${category}`}
+      to={`/categories/${category}`}
       className="flex flex-col justify-center items-center bg-[#73B1D2] w-full sm:w-[calc(50%_-_2rem)] p-4 rounded-lg"
     >
       <img
