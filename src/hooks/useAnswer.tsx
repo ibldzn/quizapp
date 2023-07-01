@@ -22,8 +22,16 @@ export const useAnswer = (category: string) => {
     }));
   };
 
+  const resetAnswers = () => {
+    setAnswer((prev) => ({
+      ...prev,
+      [category]: [],
+    }));
+  };
+
   return {
     answers: answer[category],
     addAnswer,
+    resetAnswers,
   };
 };
