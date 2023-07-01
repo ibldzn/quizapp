@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useQuestions } from "../context/Question";
+import { useQuestions } from "../context/Questions";
 import { Category } from "../components/Category";
 
 export const Categories = () => {
