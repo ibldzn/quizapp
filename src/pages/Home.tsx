@@ -20,7 +20,7 @@ export const Home = () => {
         </Link>
         <Link
           to="/about"
-          className="w-full text-sm text-white text-end hover:text-black font-inter"
+          className="w-full text-sm text-white text-center sm:text-end hover:text-black font-inter"
         >
           About
         </Link>
