@@ -17,18 +17,6 @@ const formatTime = (timeMs: number) => {
   return `${minutes}:${seconds}`;
 };
 
-const correctIndicator = () => (
-  <div className="flex justify-center items-center w-8 h-8 rounded-full bg-green-600 absolute">
-    <span className="text-white font-bold">✓ Correct</span>
-  </div>
-);
-
-const wrongIndicator = () => (
-  <div className="flex justify-center items-center w-8 h-8 rounded-full bg-red-600 absolute">
-    <span className="text-white font-bold">✗ Wrong</span>
-  </div>
-);
-
 export const Quiz = () => {
   const navigate = useNavigate();
   const questions = useQuestions();

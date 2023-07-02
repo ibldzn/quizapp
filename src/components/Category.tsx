@@ -8,7 +8,7 @@ export interface ICategoryProps {
 
 export const Category = ({ category }: ICategoryProps) => {
   const questions = useQuestions()[category];
-  const { answers, addAnswer } = useAnswer(category);
+  const { answers } = useAnswer(category);
 
   const correctAnswers = answers?.filter((answer) => answer.isCorrect);
   const wrongAnswers = answers?.filter((answer) => !answer.isCorrect);
