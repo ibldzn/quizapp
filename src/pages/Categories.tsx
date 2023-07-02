@@ -11,10 +11,10 @@ export const Categories = () => {
   const correctAnswers = categories
     .map((category) => {
       const { answers } = useAnswer(category);
-      console.log(answers);
       return answers?.filter((answer) => answer.isCorrect);
     })
-    .filter((answer) => answer?.length).length;
+    .filter((answer) => answer?.length)
+    .reduce((acc, curr) => acc + curr?.length, 0);
 
   return (
     <div className="grid place-items-center w-screen h-screen bg-[#86BBD8] overflow-auto">

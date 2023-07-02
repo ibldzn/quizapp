@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Link, useNavigate, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { useQuestions } from "../context/Questions";
 import { useEffect, useRef, useState } from "react";
 import { useAnswer } from "../hooks/useAnswer";
@@ -33,6 +33,7 @@ export const Quiz = () => {
     activeQuestions[questionNumber]
   );
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
+  const [additionalClassNames, setAdditionalClassNames] = useState("");
 
   const setupTimer = () => {
     if (timerRef.current) {
@@ -46,6 +47,7 @@ export const Quiz = () => {
 
   const handleNextQuestion = () => {
     setSelectedOption(null);
+    setAdditionalClassNames("");
 
     if (questionNumber + 1 < activeQuestions.length) {
       setQuestionNumber((prev) => prev + 1);
@@ -58,6 +60,14 @@ export const Quiz = () => {
       }, 2000);
     }
   };
+
+  useEffect(() => {
+    // check if the user has answered all the questions
+    if (answers && answers.length === activeQuestions.length) {
+      setQuizFinished(true);
+      navigate(`/results/${category}`);
+    }
+  }, [answers, activeQuestions]);
 
   useEffect(() => {
     if (!quizFinished) {
@@ -77,15 +87,7 @@ export const Quiz = () => {
   }, [timePassed]);
 
   return (
-    <div className="flex flex-col items-center relative w-screen h-screen bg-[#86BBD8] overflow-auto p-4">
-      <Link
-        to="/categories"
-        className="absolute top-0 left-0 m-4 text-white font-silkscreen text-2xl"
-      >
-        <span className="text-white font-silkscreen text-sm sm:text-md md:text-2xl">
-          ← Back
-        </span>
-      </Link>
+    <div className="flex flex-col items-center w-screen h-screen bg-[#86BBD8] overflow-auto p-4">
       <h1 className="text-3xl sm:text-5xl text-center font-silkscreen text-white">
         {category}
       </h1>
@@ -136,27 +138,30 @@ export const Quiz = () => {
               key={choice}
               disabled={selectedOption !== null}
               className={`flex flex-col text-start font-inter ${
-                index !== selectedOption ? "bg-[#6595d0]" : "bg-[#4a80c0]"
-              } w-full p-4 rounded-lg hover:cursor-pointer hover:bg-[#4a80c0]`}
+                index !== selectedOption
+                  ? "bg-[#6595d0] hover:bg-[#4a80c0]"
+                  : "bg-[#4a80c0]"
+              } w-full p-4 rounded-lg hover:cursor-pointer ${
+                index === selectedOption && additionalClassNames
+              }`}
               onClick={() => {
-                if (
-                  !answers?.find(
-                    (answer) => answer.questionNumber === questionNumber
-                  ) &&
-                  !selectedOption
-                ) {
+                if (!selectedOption) {
                   clearInterval(timerRef.current!);
-                  addAnswer(
-                    questionNumber,
-                    index,
-                    index === currentQuestion.answer
-                  );
+                  const isCorrect = index === currentQuestion.answer;
+                  addAnswer(questionNumber, index, isCorrect);
                   setSelectedOption(index);
+
+                  if (!isCorrect) {
+                    setAdditionalClassNames("bg-red-600 text-white");
+                  } else {
+                    setAdditionalClassNames("bg-green-600 text-white");
+                  }
+
+                  setTimeout(() => {
+                    handleNextQuestion();
+                    setupTimer();
+                  }, 1000);
                 }
-                setTimeout(() => {
-                  handleNextQuestion();
-                  setupTimer();
-                }, 1000);
               }}
             >
               {choice}
