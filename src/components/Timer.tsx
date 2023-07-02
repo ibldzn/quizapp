@@ -34,7 +34,6 @@ export const Timer = ({ durationMs, onTimeUp }: ITimerProps) => {
     const interval = setInterval(() => {
       setTimeLeft((prevTimeLeft) => {
         if (prevTimeLeft === 0) {
-          onTimeUp?.();
           return prevTimeLeft;
         }
 
@@ -42,11 +41,16 @@ export const Timer = ({ durationMs, onTimeUp }: ITimerProps) => {
       });
     }, 1000);
 
+    if (timeLeft === 0) {
+      clearInterval(interval);
+      onTimeUp?.();
+    }
+
     return () => clearInterval(interval);
   }, [onTimeUp]);
 
   return (
-    <div className="flex flex-col w-full h-full px-4">
+    <div className="flex flex-col w-full h-auto px-4">
       <div className="font-silkscreen text-md text-end">
         {formatTime(timeLeft)}
       </div>

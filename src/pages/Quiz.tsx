@@ -2,7 +2,6 @@ import { motion } from "framer-motion";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { useQuestions } from "../context/Questions";
 import { useEffect, useRef, useState } from "react";
-import { Options } from "../components/Options";
 import { useAnswer } from "../hooks/useAnswer";
 
 const TIME_LIMIT = 30; // seconds
@@ -38,13 +37,14 @@ export const Quiz = () => {
   const timerRef = useRef<number | null>(null);
   const [quizFinished, setQuizFinished] = useState(false);
   const [timePassed, setTimePassed] = useState(0);
-  const [activeQuestions, setActiveQuestions] = useState(questions[category!]);
+  const [activeQuestions, _] = useState(questions[category!]);
   const [questionNumber, setQuestionNumber] = useState(
     answers && answers.length ? answers.length - 1 : 0
   );
   const [currentQuestion, setCurrentQuestion] = useState(
     activeQuestions[questionNumber]
   );
+  const [selectedOption, setSelectedOption] = useState<number | null>(null);
 
   const setupTimer = () => {
     if (timerRef.current) {
@@ -57,6 +57,8 @@ export const Quiz = () => {
   };
 
   const handleNextQuestion = () => {
+    setSelectedOption(null);
+
     if (questionNumber + 1 < activeQuestions.length) {
       setQuestionNumber((prev) => prev + 1);
       setCurrentQuestion(activeQuestions[questionNumber + 1]);
@@ -144,12 +146,16 @@ export const Quiz = () => {
           {currentQuestion.choices.map((choice, index) => (
             <button
               key={choice}
-              className="flex flex-col text-start font-inter bg-[#6595d0] w-full p-4 rounded-lg hover:cursor-pointer hover:bg-[#4a80c0]"
+              disabled={selectedOption !== null}
+              className={`flex flex-col text-start font-inter ${
+                index !== selectedOption ? "bg-[#6595d0]" : "bg-[#4a80c0]"
+              } w-full p-4 rounded-lg hover:cursor-pointer hover:bg-[#4a80c0]`}
               onClick={() => {
                 if (
                   !answers?.find(
                     (answer) => answer.questionNumber === questionNumber
-                  )
+                  ) &&
+                  !selectedOption
                 ) {
                   clearInterval(timerRef.current!);
                   addAnswer(
@@ -157,6 +163,7 @@ export const Quiz = () => {
                     index,
                     index === currentQuestion.answer
                   );
+                  setSelectedOption(index);
                 }
                 setTimeout(() => {
                   handleNextQuestion();
@@ -170,11 +177,8 @@ export const Quiz = () => {
         </div>
       </div>
       <div className="flex w-full gap-2">
-        <button className="flex flex-col text-start font-inter bg-[#6595d0] w-3/4 sm:w-full p-4 rounded-lg hover:cursor-pointer hover:bg-[#4a80c0]">
-          Next
-        </button>
         <button
-          className="flex flex-col text-start text-white font-inter bg-red-700 w-1/4 sm:w-full p-4 rounded-lg hover:cursor-pointer hover:bg-red-600"
+          className="flex flex-col text-start text-white font-inter bg-red-600 w-full p-4 rounded-lg hover:cursor-pointer hover:bg-red-700"
           onClick={() => {
             resetAnswers();
             window.location.reload();

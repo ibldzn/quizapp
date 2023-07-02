@@ -24,7 +24,7 @@ export const Category = ({ category }: ICategoryProps) => {
   return (
     <Link
       to={`/categories/${category}`}
-      className="flex flex-col justify-center items-center relative bg-[#73B1D2] w-full sm:w-[calc(50%_-_2rem)] p-4 rounded-lg"
+      className="flex flex-col justify-center items-center relative w-full sm:w-[calc(50%_-_2rem)] p-4 rounded-lg hover:bg-[#4a80c0] bg-[#73B1D2]"
     >
       <div className="absolute top-4 right-4 w-4 h-4 flex justify-center items-center">
         <div className="flex flex-col font-inter text-sm text-white">

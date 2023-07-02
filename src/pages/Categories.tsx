@@ -1,14 +1,20 @@
-import { useEffect } from "react";
 import { useQuestions } from "../context/Questions";
 import { Category } from "../components/Category";
+import { useAnswer } from "../hooks/useAnswer";
 
 export const Categories = () => {
   const questions = useQuestions();
   const categories = Object.keys(questions);
-
-  useEffect(() => {
-    console.log(categories);
-  }, [questions]);
+  const totalQuestions = categories
+    .map((category) => questions[category].length)
+    .reduce((acc, curr) => acc + curr, 0);
+  const correctAnswers = categories
+    .map((category) => {
+      const { answers } = useAnswer(category);
+      console.log(answers);
+      return answers?.filter((answer) => answer.isCorrect);
+    })
+    .filter((answer) => answer?.length).length;
 
   return (
     <div className="grid place-items-center w-screen h-screen bg-[#86BBD8] overflow-auto">
@@ -18,6 +24,9 @@ export const Categories = () => {
         </span>
         <span className="font-inter font-semibold uppercase sm:text-xl text-center">
           Pick a category
+        </span>
+        <span className="font-inter font-semibold uppercase sm:text-xl text-center">
+          Score: {correctAnswers}/{totalQuestions}
         </span>
       </div>
       <div className="flex flex-wrap justify-center gap-4 w-3/4 mb-4">
