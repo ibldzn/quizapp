@@ -18,6 +18,12 @@ export const Home = () => {
         >
           Start
         </Link>
+        <Link
+          to="/about"
+          className="w-full text-sm text-white text-end hover:text-black font-inter"
+        >
+          About
+        </Link>
       </div>
     </div>
   );

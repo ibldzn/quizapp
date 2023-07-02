@@ -92,12 +92,24 @@ export const About = () => {
   return (
     <div className="grid place-items-center w-screen h-screen bg-[#86BBD8] overflow-auto">
       <div className="flex flex-col my-4 text-white">
-        <span className="font-silkscreen text-3xl sm:text-5xl text-center">
+        <div className="flex flex-wrap justify-center gap-4 w-full">
+          {[1, 2, 3].map((n) => (
+            <img
+              key={n}
+              src={`/logo-${n}.png`}
+              alt={`logo-${n}`}
+              className="w-32 h-32 object-cover"
+            />
+          ))}
+        </div>
+        <span className="font-silkscreen text-3xl sm:text-5xl text-center my-4">
           About
         </span>
-        <span className="font-inter font-semibold uppercase sm:text-xl text-center">
-          {prodi}
-        </span>
+        <div className="flex flex-col font-inter font-semibold uppercase sm:text-xl text-center">
+          <span>{prodi}</span>
+          <span>Fakultas Ilmu dan Teknologi Kesehatan</span>
+          <span>Universitas Jenderal Ahmad Yani</span>
+        </div>
       </div>
       <div className="flex flex-col my-4 text-white">
         <span className="font-silkscreen text-3xl sm:text-5xl text-center">
@@ -121,14 +133,6 @@ export const About = () => {
               {anggota.nama} ({anggota.npm})
             </div>
           ))}
-        </span>
-      </div>
-      <div className="flex flex-col my-4 text-white">
-        <span className="font-silkscreen text-3xl sm:text-5xl text-center">
-          Source Code
-        </span>
-        <span className="font-inter font-semibold uppercase sm:text-xl text-center">
-          <Link to="https://github.com/ibldzn/quiz-app">Github</Link>
         </span>
       </div>
     </div>
