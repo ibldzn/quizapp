@@ -6,7 +6,7 @@ export const useAnswer = (category: string) => {
 
   const addAnswer = (
     questionNumber: number,
-    answer: number,
+    answerIndex: number,
     isCorrect: boolean
   ) => {
     setAnswer((prev) => ({
@@ -15,7 +15,7 @@ export const useAnswer = (category: string) => {
         ...(prev[category] || []),
         {
           questionNumber,
-          answer,
+          answer: answerIndex,
           isCorrect,
         },
       ],

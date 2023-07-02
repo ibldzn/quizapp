@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
-import { useNavigate, useParams } from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 import { useQuestions } from "../context/Questions";
 import { useEffect, useRef, useState } from "react";
 import { Options } from "../components/Options";
 import { useAnswer } from "../hooks/useAnswer";
 
-const TIME_LIMIT = 5; // seconds
+const TIME_LIMIT = 30; // seconds
 
 const formatTime = (timeMs: number) => {
   const minutes = Math.floor(timeMs / 1000 / 60)
@@ -18,6 +18,18 @@ const formatTime = (timeMs: number) => {
   return `${minutes}:${seconds}`;
 };
 
+const correctIndicator = () => (
+  <div className="flex justify-center items-center w-8 h-8 rounded-full bg-green-600 absolute">
+    <span className="text-white font-bold">✓ Correct</span>
+  </div>
+);
+
+const wrongIndicator = () => (
+  <div className="flex justify-center items-center w-8 h-8 rounded-full bg-red-600 absolute">
+    <span className="text-white font-bold">✗ Wrong</span>
+  </div>
+);
+
 export const Quiz = () => {
   const navigate = useNavigate();
   const questions = useQuestions();
@@ -27,11 +39,12 @@ export const Quiz = () => {
   const [quizFinished, setQuizFinished] = useState(false);
   const [timePassed, setTimePassed] = useState(0);
   const [activeQuestions, setActiveQuestions] = useState(questions[category!]);
-  const [questionNumber, setQuestionNumber] = useState(answers?.length || 0);
+  const [questionNumber, setQuestionNumber] = useState(
+    answers && answers.length ? answers.length - 1 : 0
+  );
   const [currentQuestion, setCurrentQuestion] = useState(
     activeQuestions[questionNumber]
   );
-  const [selectedAnswer, setSelectedAnswer] = useState(-1);
 
   const setupTimer = () => {
     if (timerRef.current) {
@@ -50,10 +63,9 @@ export const Quiz = () => {
       setTimePassed(0);
     } else {
       setQuizFinished(true);
-
-      // setTimeout(() => {
-      //   navigate(`/results/${category}`);
-      // }, 2000);
+      setTimeout(() => {
+        navigate(`/results/${category}`);
+      }, 2000);
     }
   };
 
@@ -75,7 +87,15 @@ export const Quiz = () => {
   }, [timePassed]);
 
   return (
-    <div className="flex flex-col items-center w-screen h-screen bg-[#86BBD8] overflow-auto p-4">
+    <div className="flex flex-col items-center relative w-screen h-screen bg-[#86BBD8] overflow-auto p-4">
+      <Link
+        to="/categories"
+        className="absolute top-0 left-0 m-4 text-white font-silkscreen text-2xl"
+      >
+        <span className="text-white font-silkscreen text-sm sm:text-md md:text-2xl">
+          ← Back
+        </span>
+      </Link>
       <h1 className="text-3xl sm:text-5xl text-center font-silkscreen text-white">
         {category}
       </h1>
@@ -127,17 +147,21 @@ export const Quiz = () => {
               className="flex flex-col text-start font-inter bg-[#6595d0] w-full p-4 rounded-lg hover:cursor-pointer hover:bg-[#4a80c0]"
               onClick={() => {
                 if (
-                  !answers.find(
+                  !answers?.find(
                     (answer) => answer.questionNumber === questionNumber
                   )
                 ) {
+                  clearInterval(timerRef.current!);
                   addAnswer(
                     questionNumber,
                     index,
                     index === currentQuestion.answer
                   );
                 }
-                handleNextQuestion();
+                setTimeout(() => {
+                  handleNextQuestion();
+                  setupTimer();
+                }, 1000);
               }}
             >
               {choice}

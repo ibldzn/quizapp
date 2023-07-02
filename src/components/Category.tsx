@@ -14,11 +14,11 @@ export const Category = ({ category }: ICategoryProps) => {
   const wrongAnswers = answers?.filter((answer) => !answer.isCorrect);
 
   const renderCorrectAnswers = () => (
-    <span className="text-green-500">{correctAnswers?.length || 0}</span>
+    <span className="text-green-600">{correctAnswers?.length || 0}</span>
   );
 
   const renderWrongAnswers = () => (
-    <span className="text-red-500">{wrongAnswers?.length || 0}</span>
+    <span className="text-red-600">{wrongAnswers?.length || 0}</span>
   );
 
   return (
@@ -27,7 +27,7 @@ export const Category = ({ category }: ICategoryProps) => {
       className="flex flex-col justify-center items-center relative bg-[#73B1D2] w-full sm:w-[calc(50%_-_2rem)] p-4 rounded-lg"
     >
       <div className="absolute top-4 right-4 w-4 h-4 flex justify-center items-center">
-        <div className="flex flex-col font-inter text-xs text-white">
+        <div className="flex flex-col font-inter text-sm text-white">
           <span>
             {answers?.length || 0}/{questions?.length || 0}
           </span>
