@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 const prodi = "Teknologi Laboratorium Medis (D-IV)";
 
 const dosenPengampu = [
