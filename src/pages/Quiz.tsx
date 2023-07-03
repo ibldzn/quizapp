@@ -61,8 +61,8 @@ export const Quiz = () => {
       setCurrentQuestion(activeQuestions[questionNumber + 1]);
       setTimePassed(0);
     } else {
-      setQuizFinished(true);
       setTimeout(() => {
+        setQuizFinished(true);
         navigate(`/results/${category}`);
       }, 2000);
     }
@@ -95,8 +95,8 @@ export const Quiz = () => {
 
   useEffect(() => {
     if (timePassed >= TIME_LIMIT) {
-      handleNextQuestion();
       addAnswer(questionNumber, -1, false);
+      handleNextQuestion();
     }
   }, [timePassed]);
 
@@ -177,7 +177,7 @@ export const Quiz = () => {
                   setTimeout(() => {
                     handleNextQuestion();
                     setupTimer();
-                  }, 2000);
+                  }, 5000);
                 }
               }}
             >
