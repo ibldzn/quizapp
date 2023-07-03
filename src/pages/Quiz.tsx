@@ -7,8 +7,6 @@ import { useAnswer } from "../hooks/useAnswer";
 
 const TIME_LIMIT = 30; // seconds
 
-const delay = (ms: number, fn: TimerHandler) => setTimeout(fn, ms);
-
 const formatTime = (timeMs: number) => {
   const minutes = Math.floor(timeMs / 1000 / 60)
     .toString()
