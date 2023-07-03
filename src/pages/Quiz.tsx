@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+//@ts-ignore
 import useSound from "use-sound";
 import { useNavigate, useParams } from "react-router-dom";
 import { useQuestions } from "../context/Questions";
