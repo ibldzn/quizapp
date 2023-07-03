@@ -1,10 +1,13 @@
 import { motion } from "framer-motion";
+import useSound from "use-sound";
 import { useNavigate, useParams } from "react-router-dom";
 import { useQuestions } from "../context/Questions";
 import { useEffect, useRef, useState } from "react";
 import { useAnswer } from "../hooks/useAnswer";
 
 const TIME_LIMIT = 30; // seconds
+
+const delay = (ms: number, fn: TimerHandler) => setTimeout(fn, ms);
 
 const formatTime = (timeMs: number) => {
   const minutes = Math.floor(timeMs / 1000 / 60)
@@ -34,6 +37,11 @@ export const Quiz = () => {
   );
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [additionalClassNames, setAdditionalClassNames] = useState("");
+  const [playCorrectSound, { stop: stopCorrectSound }] = useSound(
+    "/correct-answer.mp3"
+  );
+  const [playWrongSound, { stop: stopWrongSound }] =
+    useSound("/wrong-answer.mp3");
 
   const setupTimer = () => {
     if (timerRef.current) {
@@ -60,6 +68,13 @@ export const Quiz = () => {
       }, 2000);
     }
   };
+
+  useEffect(() => {
+    return () => {
+      stopCorrectSound();
+      stopWrongSound();
+    };
+  }, [questionNumber]);
 
   useEffect(() => {
     // check if the user has answered all the questions
@@ -147,20 +162,23 @@ export const Quiz = () => {
               onClick={() => {
                 if (!selectedOption) {
                   clearInterval(timerRef.current!);
+
                   const isCorrect = index === currentQuestion.answer;
                   addAnswer(questionNumber, index, isCorrect);
                   setSelectedOption(index);
 
                   if (!isCorrect) {
+                    playWrongSound();
                     setAdditionalClassNames("bg-red-600 text-white");
                   } else {
+                    playCorrectSound();
                     setAdditionalClassNames("bg-green-600 text-white");
                   }
 
                   setTimeout(() => {
                     handleNextQuestion();
                     setupTimer();
-                  }, 1000);
+                  }, 2000);
                 }
               }}
             >
